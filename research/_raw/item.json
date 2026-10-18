@@ -1,0 +1,1842 @@
+{
+ "type": "business",
+ "requestId": "1792278775542326-143335307-addrs-upper-yp-128",
+ "index": 0,
+ "analyticsId": "0",
+ "title": "Балути",
+ "description": "Нижегородская ул., 50, Москва",
+ "address": "Нижегородская ул., 50, Москва",
+ "coordinates": [
+  37.701256,
+  55.735369
+ ],
+ "displayCoordinates": [
+  37.701256,
+  55.735369
+ ],
+ "bounds": [
+  [
+   37.69754,
+   55.733067
+  ],
+  [
+   37.705751,
+   55.737699
+  ]
+ ],
+ "uri": "ymapsbm1://org?oid=1263567291",
+ "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTI2MzU2NzI5MQ==",
+ "requestSerpId": "1792278775542326-143335307-addrs-upper-yp-128",
+ "id": "1263567291",
+ "metro": [
+  {
+   "id": "1727558371",
+   "name": "Нижегородская",
+   "distance": "2,08 км",
+   "distanceValue": 2077.43,
+   "coordinates": [
+    37.727483035,
+    55.73106932
+   ],
+   "type": "metro",
+   "color": "#ff4c4c"
+  },
+  {
+   "id": "3974055950",
+   "name": "Нижегородская",
+   "distance": "2,1 км",
+   "distanceValue": 2097.73,
+   "coordinates": [
+    37.730861676,
+    55.730879069
+   ],
+   "type": "metro",
+   "color": "#e66ac0"
+  },
+  {
+   "id": "1727699131",
+   "name": "Новохохловская",
+   "distance": "2,11 км",
+   "distanceValue": 2107.66,
+   "coordinates": [
+    37.717731171,
+    55.724537457
+   ],
+   "type": "metro",
+   "color": "#ff4c4c"
+  }
+ ],
+ "stops": [
+  {
+   "id": "station__lh_9600866",
+   "name": "Калитники",
+   "distance": "261 м",
+   "distanceValue": 261.289,
+   "coordinates": [
+    37.702536,
+    55.733813
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9650223",
+   "name": "МЦД Калитники",
+   "distance": "320 м",
+   "distanceValue": 321.247,
+   "coordinates": [
+    37.705006516,
+    55.734936685
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9644771",
+   "name": "Улица Рогожский Посёлок",
+   "distance": "640 м",
+   "distanceValue": 637.928,
+   "coordinates": [
+    37.703808466,
+    55.736350626
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9645616",
+   "name": "Октябрьское трамвайное депо",
+   "distance": "760 м",
+   "distanceValue": 763.621,
+   "coordinates": [
+    37.695989124,
+    55.73580363
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9644209",
+   "name": "Новохохловская улица",
+   "distance": "780 м",
+   "distanceValue": 776.529,
+   "coordinates": [
+    37.710686289,
+    55.733905911
+   ],
+   "type": "common"
+  }
+ ],
+ "photos": {
+  "count": 310,
+  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/225456/2a0000015fce75a2043127c851ee791faaef/%s",
+  "items": [
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/225456/2a0000015fce75a2043127c851ee791faaef/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/4289674/2a0000017b8deed0c9c5f6e8f1d2b71c4fd5/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15037629/2a000001961bb2247b4fea40d212772490b2/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/2838749/2a000001756ee11ccbc7a416291924a5215c/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13594632/2a000001930ffc1b0909b81fdadfd00a2aed/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1909414/2a0000018696e3dda8dc352cc7e27dc094e9/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/13790728/2a00000192b4c84c9370faea0ebadf4bb409/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/14372341/2a00000196405664232907708766ebc9e28b/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/906486/2a00000163409b9df055d3fadc363678c3c9/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1359533/2a00000163409bc169bb82cd38b6891c9a12/%s",
+    "alt": "Зоосалон, зоопарикмахерская Балути, Москва, фото"
+   }
+  ]
+ },
+ "entrances": [
+  {
+   "coordinates": [
+    37.70123668,
+    55.73536017
+   ],
+   "azimuth": 51.92947261314339,
+   "tilt": 0
+  }
+ ],
+ "routePoint": {
+  "context": "djJ8ChQKEgmFrZ8fwtlCQBErdzRIIN5LQBIpChIJT1tlnsPZQkARg9-GGC_eS0ASDDEyNjM1NjcyOTFfMB0AAIA_IDk,"
+ },
+ "relatedAdverts": {
+  "nearbyOnMap": [
+   {
+    "type": "similar",
+    "id": "19594192590",
+    "uri": "ymapsbm1://org?oid=19594192590",
+    "logId": "19594192590",
+    "title": "Вет Глобал",
+    "rating": 4.8,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/9728306/2a0000018a74c4de2cc72028780ff5cd5903/%s",
+    "categories": [],
+    "seoname": "vet_global",
+    "coordinates": [
+     37.678489,
+     55.746973
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "1110973428",
+    "uri": "ymapsbm1://org?oid=1110973428",
+    "logId": "1110973428",
+    "title": "Милорд",
+    "rating": 5,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/19672327/2a0000019d9b7b9d3ebdd0eb510c8b7c3b2b/%s",
+    "categories": [],
+    "seoname": "milord",
+    "coordinates": [
+     37.659057,
+     55.760967
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "1099403268",
+    "uri": "ymapsbm1://org?oid=1099403268",
+    "logId": "1099403268",
+    "title": "Чубчик",
+    "rating": 5,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/11421964/2a0000018c362195728b3d0015e5448162cc/%s",
+    "categories": [],
+    "seoname": "chubchik",
+    "coordinates": [
+     37.763524,
+     55.705087
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "57502825403",
+    "uri": "ymapsbm1://org?oid=57502825403",
+    "logId": "57502825403",
+    "title": "Панвет",
+    "rating": 4.9,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/15074997/2a00000196ab240f3354e478fb16c5922fb4/%s",
+    "categories": [],
+    "seoname": "panvet",
+    "coordinates": [
+     37.676219,
+     55.716217
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "188728322524",
+    "uri": "ymapsbm1://org?oid=188728322524",
+    "logId": "188728322524",
+    "title": "Четыре Лапы Груминг",
+    "rating": 4.9,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/7186075/2a0000018696b6c2af73713d1eeb8e35e50e/%s",
+    "categories": [],
+    "seoname": "chetyre_lapy_gruming",
+    "coordinates": [
+     37.779874,
+     55.713097
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   }
+  ],
+  "nearbyOnCard": [
+   {
+    "type": "similar",
+    "id": "1641595939",
+    "uri": "ymapsbm1://org?oid=1641595939",
+    "logId": "1641595939",
+    "title": "Балути",
+    "rating": 5,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/6477742/2a0000018291b656834572a53d756661d2ac/%s",
+    "categories": [],
+    "seoname": "baluti",
+    "coordinates": [
+     37.655373,
+     55.849761
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "1110973428",
+    "uri": "ymapsbm1://org?oid=1110973428",
+    "logId": "1110973428",
+    "title": "Милорд",
+    "rating": 5,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/19672327/2a0000019d9b7b9d3ebdd0eb510c8b7c3b2b/%s",
+    "categories": [],
+    "seoname": "milord",
+    "coordinates": [
+     37.659057,
+     55.760967
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "1099403268",
+    "uri": "ymapsbm1://org?oid=1099403268",
+    "logId": "1099403268",
+    "title": "Чубчик",
+    "rating": 5,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/11421964/2a0000018c362195728b3d0015e5448162cc/%s",
+    "categories": [],
+    "seoname": "chubchik",
+    "coordinates": [
+     37.763524,
+     55.705087
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "19594192590",
+    "uri": "ymapsbm1://org?oid=19594192590",
+    "logId": "19594192590",
+    "title": "Вет Глобал",
+    "rating": 4.8,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/9728306/2a0000018a74c4de2cc72028780ff5cd5903/%s",
+    "categories": [],
+    "seoname": "vet_global",
+    "coordinates": [
+     37.678489,
+     55.746973
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   },
+   {
+    "type": "similar",
+    "id": "57502825403",
+    "uri": "ymapsbm1://org?oid=57502825403",
+    "logId": "57502825403",
+    "title": "Панвет",
+    "rating": 4.9,
+    "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/15074997/2a00000196ab240f3354e478fb16c5922fb4/%s",
+    "categories": [],
+    "seoname": "panvet",
+    "coordinates": [
+     37.676219,
+     55.716217
+    ],
+    "icon": "petshop",
+    "poiColor": "#60A8F0",
+    "poiLabelColor": "#428FDB",
+    "isAdvert": true
+   }
+  ]
+ },
+ "panorama": {
+  "id": "1298638666_673418485_23_1530882909",
+  "direction": [
+   -173.2,
+   10
+  ],
+  "point": {
+   "type": "Point",
+   "coordinates": [
+    37.7012712347,
+    55.7354413306
+   ]
+  },
+  "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1298638666_673418485_23_1530882909&size=500%2C240&azimuth=-173.2&tilt=10&api_key=maps&signature=zJZWNZyXGuDbrjXBbkIfaPeiUEwzvNnG0YStPUzjq64=",
+  "alt": "Панорама — зоосалон, зоопарикмахерская Балути, Москва"
+ },
+ "shortTitle": "Балути",
+ "fullAddress": "Москва, Нижегородская улица, 50",
+ "country": "Россия",
+ "chain": {
+  "id": "174152166199",
+  "name": "Балути",
+  "seoname": "baluti",
+  "quantityInCity": 5
+ },
+ "status": "open",
+ "businessLinks": [
+  {
+   "type": "booking",
+   "aref": "#yandex_booking",
+   "href": "https://n707183.yclients.ru/"
+  }
+ ],
+ "ratingData": {
+  "ratingCount": 416,
+  "ratingValue": 5,
+  "reviewCount": 260
+ },
+ "sources": [
+  {
+   "id": "yandex",
+   "name": "Яндекс",
+   "href": "https://ya.ru/"
+  }
+ ],
+ "categories": [
+  {
+   "id": "184107224",
+   "name": "Зоосалон, зоопарикмахерская",
+   "class": "petshop",
+   "seoname": "pet_salon",
+   "pluralName": "Зоосалоны"
+  }
+ ],
+ "phones": [
+  {
+   "number": "+7 (985) 764-90-21",
+   "type": "phone",
+   "value": "+79857649021",
+   "info": "с 10.00 до 20.00"
+  },
+  {
+   "number": "+7 (915) 179-35-61",
+   "type": "phone",
+   "value": "+79151793561",
+   "info": "ват сап"
+  },
+  {
+   "number": "+7 (985) 764-90-58",
+   "type": "phone",
+   "value": "+79857649058"
+  }
+ ],
+ "features": [
+  {
+   "id": "parking_disabled",
+   "value": true,
+   "name": "парковка для людей с инвалидностью",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "street_entrance",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "type of animal",
+   "value": [
+    {
+     "id": "ferrets",
+     "name": "хорьки"
+    },
+    {
+     "id": "birds",
+     "name": "птицы"
+    },
+    {
+     "id": "reptiles",
+     "name": "рептилии"
+    },
+    {
+     "id": "dogs",
+     "name": "собаки"
+    },
+    {
+     "id": "rabbits",
+     "name": "кролики"
+    },
+    {
+     "id": "cats",
+     "name": "кошки"
+    },
+    {
+     "id": "foxes",
+     "name": "лисы"
+    },
+    {
+     "id": "guinea_pigs",
+     "name": "морские свинки"
+    }
+   ],
+   "name": "виды животных",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "payment_by_credit_card",
+   "value": true,
+   "name": "Оплата картой",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_accessability",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_accessible_vocabulary",
+   "value": [
+    {
+     "id": "wheelchair_accessible_pa",
+     "name": "частично доступно"
+    }
+   ],
+   "name": "доступность помещения на инвалидной коляске",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "payment_method",
+   "value": [
+    {
+     "id": "subsidized_discounts",
+     "name": "скидки на услуги льготным категориям"
+    },
+    {
+     "id": "discount_system",
+     "name": "дисконтная система скидок"
+    },
+    {
+     "id": "cash",
+     "name": "наличными"
+    },
+    {
+     "id": "payment_card",
+     "name": "оплата картой"
+    },
+    {
+     "id": "qr_code",
+     "name": "QR-код"
+    },
+    {
+     "id": "fast_payment_system",
+     "name": "СБП"
+    },
+    {
+     "id": "by_credit_card",
+     "name": "оплата кредитной картой"
+    }
+   ],
+   "name": "способ оплаты",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "promotions",
+   "value": [
+    {
+     "id": "discounts",
+     "name": "скидки"
+    },
+    {
+     "id": "promotions",
+     "name": "акции"
+    },
+    {
+     "id": "special_offers",
+     "name": "спецпредложения"
+    },
+    {
+     "id": "bonuses",
+     "name": "бонусы"
+    },
+    {
+     "id": "gifts",
+     "name": "подарки"
+    }
+   ],
+   "name": "акции",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "wi_fi",
+   "value": true,
+   "name": "Wi-Fi",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "show_briefly_about_the_place_block",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "good_place",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "preliminary_registration",
+   "value": true,
+   "name": "предварительная запись",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "car_park",
+   "value": true,
+   "name": "парковка",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "Possible_with_dog",
+   "value": true,
+   "name": "Можно с собакой",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "gift_certificate",
+   "value": true,
+   "name": "подарочный сертификат",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_access",
+   "value": [
+    {
+     "id": "full_access",
+     "name": "доступно"
+    }
+   ],
+   "name": "доступность входа на инвалидной коляске",
+   "type": "enum",
+   "important": false
+  }
+ ],
+ "mediaOrderTemplate": "p,v,p,v,v,p,v*,p*",
+ "featureGroups": [
+  {
+   "name": "Доступность",
+   "featureIds": [
+    "wheelchair_accessability",
+    "elevator_wheelchair_accessible",
+    "ramp",
+    "wheelchair_access",
+    "call_button",
+    "toilet_for_disabled",
+    "parking_disabled",
+    "wheelchair_accessible_vocabulary"
+   ]
+  },
+  {
+   "name": "Достижения",
+   "featureIds": [
+    "good_place"
+   ]
+  }
+ ],
+ "businessProperties": {
+  "has_verified_owner": true,
+  "unusual_hours": [
+   "2026-11-04"
+  ]
+ },
+ "seoname": "baluti",
+ "geoId": 120551,
+ "compositeAddress": {
+  "country": "Россия",
+  "locality": "Москва",
+  "street": "Нижегородская улица",
+  "house": "50"
+ },
+ "modularCard": {
+  "showClaimOrganization": true,
+  "showTaxiButton": true,
+  "showFeedbackButton": true,
+  "showReviews": true,
+  "showAddPhotoButton": true,
+  "showCompetitors": true,
+  "showDirectBanner": true,
+  "showAdditionalAds": true,
+  "showWorkHours": true,
+  "showContacts": true,
+  "showFriendsLiked": false,
+  "showVisualPricesTab": false,
+  "showHotelEnrichment": false,
+  "promoBadgeFeature": [],
+  "offerBadgeId": [],
+  "showCourierButton": false,
+  "hotelReviewsStubType": 0
+ },
+ "modularPin": {
+  "subtitleHints": [
+   {
+    "text": "5",
+    "type": "RATING",
+    "properties": {
+     "rating": {
+      "showGoodPlace": true
+     }
+    }
+   },
+   {
+    "text": "Закрыто до 10:00",
+    "type": "WORKING_HOURS",
+    "properties": {
+     "workingHours": {
+      "shortText": "Закрыто до 10:00",
+      "isOpen": false
+     }
+    }
+   }
+  ],
+  "allowMultilineSubtitle": false
+ },
+ "modularSnippet": {
+  "showNeurosummary": false,
+  "showMentionedOnSite": false,
+  "showTitle": "LONG_TITLE",
+  "showAddress": "SHORT_ADDRESS",
+  "showCategory": "SINGLE_CATEGORY",
+  "showRating": "FIVE_STAR_RATING",
+  "showPhoto": "LOGO",
+  "showWorkHours": false,
+  "showVerified": false,
+  "showDistanceFromTransit": false,
+  "showBookmark": false,
+  "showEta": false,
+  "showGeoproductOffer": false,
+  "subtitleHint": [],
+  "galleryButton": [
+   "BOOKING",
+   "PRICES"
+  ],
+  "shownGoodsNumber": 3,
+  "showDescription": false,
+  "showCollectionBadge": true,
+  "showFriendsLiked": false,
+  "showCourierButton": false,
+  "showYandexEatsOrderButton": false,
+  "infoBlock": [],
+  "serpActionButtons": [
+   8,
+   1,
+   3,
+   5,
+   0
+  ],
+  "awards": [
+   0
+  ],
+  "promoBadgeFeature": [],
+  "offerBadgeId": [],
+  "showHotelEnrichment": false
+ },
+ "tzOffset": 10800,
+ "workingTimeText": "ежедневно, 10:00–20:00",
+ "workingTime": [
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 10,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 20,
+     "minutes": 0
+    }
+   }
+  ]
+ ],
+ "currentWorkingStatus": {
+  "isOpenNow": false,
+  "text": "Закрыто до 10:00",
+  "shortText": "Закрыто до 10:00",
+  "tag": []
+ },
+ "socialLinks": [
+  {
+   "type": "telegram",
+   "href": "https://t.me/balytivip",
+   "readableHref": "@balytivip"
+  },
+  {
+   "type": "viber",
+   "href": "https://viber.click/79857649021",
+   "readableHref": "viber.click/79857649021"
+  },
+  {
+   "type": "whatsapp",
+   "href": "https://wa.me/79857649021?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+   "readableHref": "+79857649021"
+  },
+  {
+   "type": "vkontakte",
+   "href": "http://vk.ru/yorki_shpitzi_grooming",
+   "readableHref": "vk.ru/yorki_shpitzi_grooming"
+  },
+  {
+   "type": "vkontakte",
+   "href": "http://vk.ru/club17389801",
+   "readableHref": "vk.ru/club17389801"
+  }
+ ],
+ "businessImages": {
+  "logo": {
+   "urlTemplate": "https://avatars.mds.yandex.net/get-altay/5493698/2a0000017f213bf0c5e51559a12d787fb0e9/%s",
+   "tag": [
+    "chain-logo"
+   ],
+   "id": "5493698_2a0000017f213bf0c5e51559a12d787fb0e9"
+  }
+ },
+ "references": [
+  {
+   "id": "4175267763",
+   "scope": "nyak"
+  },
+  {
+   "id": "yclients__667801",
+   "scope": "yandex_booking"
+  }
+ ],
+ "subtitleItems": [
+  {
+   "type": "working_hours",
+   "text": "Закрыто до 10:00",
+   "property": [
+    {
+     "key": "is_open",
+     "value": "0"
+    },
+    {
+     "key": "short_text",
+     "value": "Закрыто до 10:00"
+    },
+    {
+     "key": "text",
+     "value": "Закрыто до 10:00"
+    }
+   ]
+  },
+  {
+   "type": "rating",
+   "text": "10",
+   "property": [
+    {
+     "key": "value",
+     "value": "10"
+    },
+    {
+     "key": "value_5",
+     "value": "5"
+    },
+    {
+     "key": "yandex_star",
+     "value": "1"
+    }
+   ]
+  }
+ ],
+ "metrika": {
+  "counter": 87179936,
+  "goals": {
+   "call": "make-call",
+   "cta": "cta-button",
+   "route": "make-route",
+   "site": "site",
+   "whatsapp": "whatsapp",
+   "telegram": "telegram",
+   "viber": "viber",
+   "vkontakte": "vkontakte",
+   "youtube": "social-youtube",
+   "odnoklassniki": "social-odnoklassniki",
+   "instagram": "instagram_subscribe",
+   "stories": "stories-button",
+   "taxi": "call-taxi",
+   "booking": "booking",
+   "subscribe": "subscribe",
+   "send-to-phone": "send-to-phone",
+   "booking-open": "booking-open",
+   "share": "share",
+   "booking-confirmed": "booking-confirmed",
+   "booking-visited": "booking-visited",
+   "start-route": "start-route",
+   "visited-organization": "visited-organization"
+  }
+ },
+ "routeToChoose": [
+  {
+   "icon-url": "https://yastatic.net/s3/web4static/_/v2/static/media/yandex_logo.c2cc5125.png",
+   "label": "Яндекс Карты",
+   "route-types": {
+    "auto": "auto",
+    "bus": "mt",
+    "walking": "pd"
+   },
+   "route-url-template": "https://maps.yandex.ru/?mode=routes&rtext={fromParam}~{toParam}&rtt={routeTypeParam}&source=wizbiz_new_map_single&utm_source=yandex&utm_medium=wizbiz_map&utm_campaign=route",
+   "search-text-url-template": "https://yandex.ru/maps/?mode=search&text={encodedText}",
+   "service": "yandex_maps"
+  },
+  {
+   "icon-url": "https://yastatic.net/s3/web4static/_/v2/static/media/twoGis_logo.f6efe2e1.png",
+   "label": "2ГИС",
+   "route-types": {
+    "auto": "car",
+    "bus": "bus",
+    "walking": "pedestrian"
+   },
+   "route-url-template": "https://2gis.ru/directions/tab/{routeTypeParam}/points/{fromParam}|{toParam}&utm_from=route",
+   "search-text-url-template": "https://2gis.ru/search/{encodedText}",
+   "service": "2gis"
+  }
+ ],
+ "topObjects": {
+  "hasPhotos": true,
+  "isYandexEda": false,
+  "rubric": "other",
+  "categories": [
+   {
+    "categoryName": "popular",
+    "categoryItems": [
+     {
+      "title": "Комплексный уход + когти, ушки, мытье (без экспресс линьки и вычеса) - Австралийская овчарка, аусси, аиди, атласская овчарка",
+      "description": "Комплекс: купание + сушка + когти + уши:\n\n•  Купание профессиональной косметикой •  Маска для шерсти (ускорение линьки);\n•  Сушка компрессором (или феном), выддув линяющей шерсти;\n•  Стрижка когтей;\n•  Чистка ушей.\n•  Консультация по уходу\n\nОтдельно ",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/19854705/2a0000019eb7e5547049a37ccaa87c1ee5a1/{size}",
+      "price": "4500",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878077",
+      "matchKey": "v1.LLhZBDT9SdaP_e2OLJxYEk7aMKp9nqo-hyzBiPujwm4"
+     },
+     {
+      "title": "Купание + сушка - Австралийская овчарка, аусси, аиди, атласская овчарка",
+      "description": "Комплекс: купание + сушка\n\n• купание профессиональной косметикой • маска для шерсти (ускорение линьки);\n• сушка компрессором (или феном), выддув линяющей шерсти.\n\nОтдельно оплачивается вычёсывание - из расчёта 1700 руб /час, вычёсывание колтунов - 20",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/20306185/2a0000019eb7e54faaa353b6d2bd0d16c60f/{size}",
+      "price": "3500",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878084",
+      "matchKey": "v1.7ISXHKFUbBJ_-dtohltzBoiY5ofTpW00z9mAmOcEN-w"
+     },
+     {
+      "title": "Вычесывание 1 час- Австралийская овчарка, аусси, аиди, атласская овчарка",
+      "description": "• Купание шампунем \n• Купание бальзамом \n• Сушка и выдув линяющей шерсти компрессором\n• Стрижка зоны гигиены\n• Модельная стрижка под машинку\n• Выбривание подушечек лап\n• Гигиеническая чистка глазок \n• Чистка ушей \n• Подстригание когтей \n• Парфюмирова",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/20306185/2a0000019eb7e5507d5e9e5deb104f98dea5/{size}",
+      "price": "2000",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878078",
+      "matchKey": "v1.DYz2fIDH0NAo1UC-gJa0D34_I4BUqtvauasGnVKwGvQ"
+     },
+     {
+      "title": "Окантовка легкая - Австралийская овчарка, аусси, аиди, атласская овчарка",
+      "description": "• Стрижка (бритьё) под машинку (без дополнительных услуг).\n• Консультация по уходу\n\nНа стрижку принимаем только чистых, вымытых собачек!\nКолтуны не входят в стоимость бритья!\nДоплата за сбривание большого количества колтунов - 500-1000р",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/20306185/2a0000019eb7e551ef51edcd558c76d1dd41/{size}",
+      "price": "2000",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878079",
+      "matchKey": "v1.xNKf5M4Z7m3uBuY-mRewVxxBCr4gpZEt2tdF8F-ais8"
+     },
+     {
+      "title": "Комплекс+стрижка Топ Мастер - Бивер Йорк (3-х фазное купание, стрижка когтей, чистка ушей, стрижка шерсти на ушках (треугольник), уход за глазами, гигиена в зоне под хвостиком, подушечки лап. стрижка по породе| Дополнительно оплачивается: | стрижка п",
+      "description": "Комплекс+стрижка ведущий мастер салона.\n Бивер Йорк (3-х фазное купание с использованием премиум косметики),\n стрижка когтей,\n чистка ушей,\n стрижка шерсти на ушках (треугольник),\n уход за глазами,\n гигиена в зоне под хвостиком,\n подушечки лап,\n стри",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/6161324/2a00000199526ac0cea909e97ea66daefcb6/{size}",
+      "price": "3900",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878154",
+      "matchKey": "v1.UN9qaYi0apW7b3bw2uJ3mhv3gL_CYooMUF9tO7IGX54"
+     },
+     {
+      "title": "Бивер. Гигиенический комплекс/ Беби груминг/ между стрижками - Йорк, Бивер (3-х фазное купание, стрижка когтей, чистка ушей, стрижка шерсти на ушках (треугольник), уход за глазами, гигиена в зоне под хвостиком| Дополнительно оплачивается: | стрижка у",
+      "description": "Гигиенический комплекс / Беби груминг/ комплекс для поддержания красоты между стрижками.\nБивер Йорк\n- 3-х фазное купание, \n- стрижка когтей,\n- чистка ушей,\n- стрижка шерсти на ушках (треугольник), \n- уход за глазами,\n- гигиена в зоне под хвостиком\n| ",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/6221863/2a00000199526a183b16a9bee9d912f5134c/{size}",
+      "price": "3400",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "22633854",
+      "matchKey": "v1.Xjmh8U48O9v3axbiZJZuMVY-jwDyz5fIxxMX53m6inA"
+     },
+     {
+      "title": "Комплексный уход - Бигль. 20 м. первичное вычесывание, 2 ух фазное купание, сушка компрессором, стрижка когтей, чистка ушек. | Дополнительно оплачивается: Дополнительный вычес 1000 -зо м.| подпил когтей 500р.| чистка зубной пастой 500| Маска увлажняю",
+      "description": "Комплексный уход - Бигль. 20 м. первичное вычесывание, 2 ух фазное купание, сушка компрессором, стрижка когтей, чистка ушек. | Дополнительно оплачивается: Дополнительный вычес 1000 -зо м.| подпил когтей 500р.| чистка зубной пастой 500| Маска и космет",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/6201414/2a00000197f92bfd71a24e2c2e1c79eb70dc/{size}",
+      "price": "3800",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878155",
+      "matchKey": "v1.5TSHhJj5EQ_uT-4NkTIUgnylHh0mfdaxiDckpLEB6h4"
+     },
+     {
+      "title": "Модельная стрижка топ-мастер + комплекс - Бишон фризе | пушон",
+      "description": "• Модельная стрижка по стандарту породы.\n• Двух фазное  купание шампунем по типу шерсти.\n• Купание бальзамом. \n• Сушка  шерсти.\n• Стрижка зоны гигиены.\n• Выстригание шерсти - подушечки лап.\n• Гигиеническая чистка глазок \n• Чистка и выщипывание ушей (",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/6201414/2a0000019b1c8710b7e8f38255070b9b45e0/{size}",
+      "price": "4700",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "11878168",
+      "matchKey": "v1.73vM22QsO5GD-NrlTWIkBLs1FCoH7sbkX92qr7nVSqY"
+     },
+     {
+      "title": "Купание бишон фризе. Акция. Мытье",
+      "description": "Услуга: купание бишон‑фризе\nПрофессиональный уход за кудрявой белоснежной шерстью бишон‑фризе сохранит её объём, блеск и безупречную белизну. Мы учитываем все особенности породы — от структуры шерсти до чувствительности кожи.\n\nЧто входит в услугу\nКуп",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/18727418/2a0000019e505b29132f0abf34ae860959af/{size}",
+      "price": "2000",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "29044779",
+      "matchKey": "v1.6iyQxBZxgKuZejttSPPh2aCY-Ob-blJ1Mh8t4If4t9s"
+     },
+     {
+      "title": "Вычесывание подшерстка | вельш корги, флаффи",
+      "photoLink": "https://avatars.mds.yandex.net/get-yandex-bookings/18727418/2a0000019f04ff0d4e5ca86f144644825f15/{size}",
+      "price": "2000",
+      "currency": "₽",
+      "source": "YANDEX_BOOKING",
+      "sourceId": "16840293",
+      "matchKey": "v1.O3J7xXhSgd1lFQ-_NaV6juXl6dxnkdoT8-yAgb9Wl6U"
+     }
+    ]
+   }
+  ],
+  "fullObjectsCount": 528,
+  "relevance": {
+   "lastUploadTime": "2026-10-04T16:13:34.263722Z"
+  },
+  "source": {
+   "id": "YANDEX_BOOKING",
+   "name": "Сервисы онлайн-записи, партнеры Яндекса"
+  }
+ },
+ "parentRubrics": [
+  78442730327,
+  184107208
+ ],
+ "histogramData": {
+  "wednesday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.009967004209807714,
+   0.011946751621344863,
+   0.013516896120150189,
+   0.013198316076914324,
+   0.014040277619751962,
+   0.014427124815109795,
+   0.012788713164182501,
+   0.012015018773466835,
+   0.011173057230629196,
+   0.008010012515644555,
+   0,
+   0,
+   0,
+   0
+  ],
+  "sunday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.0125611559904426,
+   0.015269086357947435,
+   0.015701444988053245,
+   0.01570144498805325,
+   0.016998520878370692,
+   0.018955512572533847,
+   0.02107179428831494,
+   0.01925133689839572,
+   0.014609170554101719,
+   0.00960291273182387,
+   0,
+   0,
+   0,
+   0
+  ],
+  "friday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.01167368301285698,
+   0.014108544771873933,
+   0.014700193423597678,
+   0.015155307771077483,
+   0.014267834793491866,
+   0.014358857662987827,
+   0.014449880532483788,
+   0.01363067470702014,
+   0.011218568665377175,
+   0.007941745363522585,
+   0,
+   0,
+   0,
+   0
+  ],
+  "tuesday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.011355102969621118,
+   0.014222323358743884,
+   0.013243827511662306,
+   0.013516896120150189,
+   0.014791216293093639,
+   0.01485948344521561,
+   0.014336101945613836,
+   0.014267834793491864,
+   0.013175560359540334,
+   0.009420866992831949,
+   0,
+   0,
+   0,
+   0
+  ],
+  "monday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.011514392991239047,
+   0.013403117533280237,
+   0.014449880532483786,
+   0.015610422118557288,
+   0.01474570485834566,
+   0.014154056206621916,
+   0.013949254750256003,
+   0.013380361815906246,
+   0.013016270337922402,
+   0.00846512686312436,
+   0,
+   0,
+   0,
+   0
+  ],
+  "thursday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.009261576971214018,
+   0.012242575947206735,
+   0.013221071794288317,
+   0.014085789054499944,
+   0.014927750597337582,
+   0.015087040618955511,
+   0.014108544771873933,
+   0.012379110251450678,
+   0.01160541586073501,
+   0.007827966776652635,
+   0,
+   0,
+   0,
+   0
+  ],
+  "saturday": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0.011286835817499147,
+   0.015473887814313348,
+   0.01786323813858232,
+   0.01686198657412675,
+   0.018932756855159858,
+   0.019751962680623507,
+   0.0190692911594038,
+   0.018591421094550004,
+   0.015200819205825462,
+   0.009989759927181704,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "awards": {
+  "goodPlaceYear": "2026"
+ },
+ "hasStories": true,
+ "booking": {
+  "originalId": "yclients__667801",
+  "partner": {
+   "name": "Yclients",
+   "legalName": "ООО «УАЙКЛАЕНТС»",
+   "logoUrl": "https://avatars.mds.yandex.net/get-bunker/61205/63861a0e5b3011f1ae0c3a56c272e839/orig",
+   "linkUrl": "https://www.yclients.com/?utm_source=yandex&utm_medium=map"
+  },
+  "standaloneWidgetPath": "/web-maps/webview?mode=booking&booking[permalink]=1263567291&booking[standalone]=true&source=partner-cta",
+  "slotsWidgetAvailable": false,
+  "advertButton": {
+   "ignore": true
+  },
+  "bookingType": "beauty"
+ },
+ "needSimilarOrgsRequest": true,
+ "needCompetitorRequest": true,
+ "region": {
+  "id": 213,
+  "type": 6,
+  "capitalId": 0,
+  "hierarchy": [
+   225,
+   1,
+   213
+  ],
+  "seoname": "moscow",
+  "bounds": [
+   [
+    37.0354885,
+    55.31406179935764
+   ],
+   [
+    38.1999115,
+    56.192715799357636
+   ]
+  ],
+  "longitude": 37.6177,
+  "latitude": 55.755863,
+  "zoom": 10,
+  "names": {
+   "ablative": "",
+   "accusative": "Москву",
+   "dative": "Москве",
+   "directional": "",
+   "genitive": "Москвы",
+   "instrumental": "Москвой",
+   "locative": "",
+   "nominative": "Москва",
+   "preposition": "в",
+   "prepositional": "Москве"
+  }
+ },
+ "breadcrumbs": [
+  {
+   "name": "Карты",
+   "type": "root",
+   "url": "https://yandex.ru/maps/"
+  },
+  {
+   "name": "Москва",
+   "type": "region",
+   "url": "https://yandex.ru/maps/213/moscow/",
+   "region": {
+    "center": [
+     37.6177,
+     55.755863
+    ],
+    "zoom": 10
+   }
+  },
+  {
+   "category": {
+    "id": "184107224",
+    "name": "Зоосалон, зоопарикмахерская",
+    "class": "petshop",
+    "seoname": "pet_salon",
+    "pluralName": "Зоосалоны"
+   },
+   "name": "Зоосалоны",
+   "type": "category",
+   "url": "https://yandex.ru/maps/213/moscow/category/pet_salon/184107224/"
+  }
+ ],
+ "geoWhere": {
+  "id": "56697672",
+  "seoname": "nizhegorodskaya_ulitsa_50",
+  "kind": "house",
+  "coordinates": [
+   37.701646,
+   55.735383
+  ],
+  "displayCoordinates": [
+   37.701646,
+   55.735383
+  ],
+  "encodedCoordinates": "Z04YcQdhT0EBQFtvfXtydH9rZw=="
+ },
+ "relatedPlaces": [
+  {
+   "type": "similar",
+   "id": "1715939496",
+   "uri": "ymapsbm1://org?oid=1715939496",
+   "logId": "1715939496",
+   "title": "Балути",
+   "rating": 4.9,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/13220791/2a00000195b7aa3857b145c49a6fbfb3ccc4/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "baluti",
+   "coordinates": [
+    37.726794,
+    55.811633
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "10635626610",
+   "uri": "ymapsbm1://org?oid=10635626610",
+   "logId": "10635626610",
+   "title": "ПрофиГрум",
+   "rating": 4.9,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/14837019/2a00000196ca6250b88c2d8f9f126711aedf/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "profigrum",
+   "coordinates": [
+    37.718606,
+    55.750134
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "37924544081",
+   "uri": "ymapsbm1://org?oid=37924544081",
+   "logId": "37924544081",
+   "title": "Галвет",
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/6322664/2a0000018fd24ebe2d6d33ec58a840894b66/%s",
+   "category": "Ветеринарная клиника",
+   "categories": [],
+   "seoname": "galvet",
+   "coordinates": [
+    37.675992,
+    55.739635
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "37737638043",
+   "uri": "ymapsbm1://org?oid=37737638043",
+   "logId": "37737638043",
+   "title": "Моё собачье дело",
+   "rating": 5,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5232541/2a00000181e9859d28aac346aa6442e79cef/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "moyo_sobachye_delo",
+   "coordinates": [
+    37.740973,
+    55.724483
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "1897170650",
+   "uri": "ymapsbm1://org?oid=1897170650",
+   "logId": "1897170650",
+   "title": "Красота собачья",
+   "rating": 5,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5098556/2a0000017b67627761faee8e68a6f53c17fb/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "krasota_sobachya",
+   "coordinates": [
+    37.689105,
+    55.761047
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "1724898145",
+   "uri": "ymapsbm1://org?oid=1724898145",
+   "logId": "1724898145",
+   "title": "Петвилль",
+   "rating": 4.5,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/753950/2a00000166638249f48a7adb8bc3607c9960/%s",
+   "category": "Гостиница для животных",
+   "categories": [],
+   "seoname": "petvill",
+   "coordinates": [
+    37.714797,
+    55.733274
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "56350069838",
+   "uri": "ymapsbm1://org?oid=56350069838",
+   "logId": "56350069838",
+   "title": "Груминг Тати",
+   "rating": 4.7,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/5235220/2a00000180cc80bbe4bad625e5179b6573f9/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "gruming_tati",
+   "coordinates": [
+    37.669137,
+    55.727066
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "83348509674",
+   "uri": "ymapsbm1://org?oid=83348509674",
+   "logId": "83348509674",
+   "title": "Весёлый пёс",
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/13996387/2a00000193cae00a8a8953560358c7d13180/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "vesyoly_pyos",
+   "coordinates": [
+    37.666763,
+    55.738573
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "114250575608",
+   "uri": "ymapsbm1://org?oid=114250575608",
+   "logId": "114250575608",
+   "title": "Шурик",
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/9707320/2a00000189bb972e709898f43775e127c2ff/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "shurik",
+   "coordinates": [
+    37.65379,
+    55.737453
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  },
+  {
+   "type": "similar",
+   "id": "114405254896",
+   "uri": "ymapsbm1://org?oid=114405254896",
+   "logId": "114405254896",
+   "title": "Черный коготь",
+   "rating": 4.5,
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/4080739/2a0000017965b7e31f48e7a6260b4c750db9/%s",
+   "category": "Зоосалон, зоопарикмахерская",
+   "categories": [],
+   "seoname": "cherny_kogot",
+   "coordinates": [
+    37.678209,
+    55.762384
+   ],
+   "icon": "petshop",
+   "poiColor": "#60A8F0",
+   "poiLabelColor": "#428FDB",
+   "isAdvert": false
+  }
+ ],
+ "a11y": {
+  "hasReviews": false,
+  "photos": []
+ },
+ "reviewResults": {
+  "reviews": [
+   {
+    "reviewId": "0fQviKNwNqrWkSOrHpA6XCi6bimNnF",
+    "businessId": "1263567291",
+    "author": {
+     "name": "Алексей",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/17910871/4xcjKDXzXjleaEtHPVpQSVt8Tyw-1/{size}",
+     "professionLevel": "Знаток города 5 уровня",
+     "rtb": "Знаток города 5 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "0gdm71umtpzdnrjdgjrecdav2g",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Хочу поделиться впечатлениями от посещения этого прекрасного груминг-салона! Остался очень доволен абсолютно всем — начиная от записи и общения с персоналом и заканчивая результатом работы мастера.\n\nС первых минут чувствуется, что здесь действительно любят животных и относятся к каждому питомцу с заботой и вниманием. Персонал очень вежливый, приветливый и доброжелательный. Все объяснили, ответили на вопросы, создали комфортную атмосферу, благодаря чему я могла спокойно доверить своего питомца мастеру.\n\nОтдельно хочу отметить мастера Елену. Большое спасибо за профессионализм, аккуратность и бережное отношение к моему питомцу! Видно, что Елена любит свою работу, внимательно относится к деталям и действительно старается сделать все максимально качественно. Очень понравилось, как мастер общалась с питомцем, учитывала его особенности и заботилась о его комфорте во время процедуры.\n\nРезультат превзошел мои ожидания! Питомец выглядит прекрасно, все сделано аккуратно, красиво и с большим вниманием к деталям. Именно такого отношения и качества работы хочется от груминг-салона.\n\nТакже хочу отметить прекрасный сервис: приятная атмосфера, внимательный персонал и ощущение, что ты пришел в место, где твоего любимца действительно любят и ценят. Для меня это очень важно, ведь доверить своего питомца незнакомому человеку бывает непросто.\n\nОгромное спасибо всей команде салона и отдельно Елене за такую замечательную работу! Обязательно будем возвращаться снова и с удовольствием рекомендую этот салон всем, кто ищет хорошего грумера и заботливое отношение к своему питомцу. ❤️",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Bu güzel tımarhaneyi ziyaret etme izlenimlerimi paylaşmak istiyorum! Personel ile kayıt ve iletişimden ustanın çalışmasının sonucuna kadar kesinlikle her şeyden çok memnun kaldım.\n\nİlk dakikalardan itibaren burada hayvanların gerçekten sevildiğini ve her evcil hayvana özen ve dikkatle davrandığını hissediyoruz. Personel çok kibar, cana yakın ve yardımseverdir. Her şeyi açıkladılar, soruları cevapladılar, rahat bir atmosfer yarattılar, bu sayede evcil hayvanımı sakince ustaya emanet edebildim.\n\nAyrı ayrı usta Elena'yı not etmek istiyorum. Evcil hayvanıma karşı profesyonellik, doğruluk ve özen gösterdiğiniz için çok teşekkür ederim! Elena'nın işini sevdiği, detaylara dikkat ettiği ve gerçekten her şeyi mümkün olduğunca verimli bir şekilde yapmaya çalıştığı açıktır. Ustanın evcil hayvanla iletişim kurma şeklini gerçekten beğendim, özelliklerini dikkate aldı ve işlem sırasında rahatlığına dikkat etti.\n\nSonuç beklentilerimi aştı! Evcil hayvan harika görünüyor, her şey özenle, güzel ve detaylara büyük önem verilerek yapılıyor. Bakım salonundan tam olarak böyle bir tutum ve iş kalitesi istiyorum.\n\nAyrıca harika hizmeti de belirtmek isterim: hoş bir atmosfer, özenli personel ve sevgilinizin gerçekten sevildiği ve takdir edildiği bir yere geldiğiniz hissi. Bu benim için çok önemli, çünkü evcil hayvanınızı bir yabancıya emanet etmek zor olabilir.\n\nBöylesine harika bir iş için tüm salon ekibine ve ayrı ayrı Elena'ya çok teşekkür ederim! Kesinlikle tekrar geri döneceğiz ve bu salonu iyi bir bakıcı ve evcil hayvanlarına karşı şefkatli bir tutum arayan herkese memnuniyetle tavsiye edeceğiz. ❤️"
+    },
+    "rating": 5,
+    "updatedTime": "2026-09-15T19:29:11.567Z",
+    "reactions": {
+     "likes": 3,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [
+     {
+      "type": "photo",
+      "id": "21022651_2a000001a0a67fa884272b4cad18f1eeb2d3",
+      "businessId": "1263567291",
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21022651/2a000001a0a67fa884272b4cad18f1eeb2d3/{size}",
+      "createdTime": 1789499779984,
+      "moderation": {
+       "status": "ACCEPTED"
+      },
+      "showReactions": true,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0,
+       "userReaction": "NONE"
+      },
+      "copyright": {
+       "name": "Алексей",
+       "publicId": "0gdm71umtpzdnrjdgjrecdav2g",
+       "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/17910871/4xcjKDXzXjleaEtHPVpQSVt8Tyw-1/{size}",
+       "updateTime": 1789499779984,
+       "hasPublicProfile": true,
+       "isSubscribed": false
+      }
+     }
+    ],
+    "videos": [],
+    "pinned": false
+   },
+   {
+    "reviewId": "XarQOzJnZKaUdkIttgQeK3sGXe-3Oq",
+    "businessId": "1263567291",
+    "author": {
+     "name": "Дгп110 Ф2Анна",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63032/q2DMhX9cityZd1Ogy6232L3DlBw-1/{size}",
+     "professionLevel": "Знаток города 14 уровня",
+     "rtb": "Знаток города 14 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "zmvdm6p5b35nwxjwec2202g4z0",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Ходим в салон на Нансена. Мастер Вера просто замечательно ладит и любит животных. Наш пёс с первого раза почувствовал комфорт и заботу Веры. Теперь только к ней ходим уже многие годы. Внимательна ко всем нюансам и просьбам.",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Nansen'deki salona gidiyoruz. Usta Vera harika anlaşıyor ve hayvanları seviyor. Köpeğimiz ilk seferinde inancın rahatlığını ve bakımını hissetti. Şimdi sadece uzun yıllardır ona gidiyoruz. Tüm nüanslara ve isteklere dikkat ediyorum."
+    },
+    "rating": 5,
+    "updatedTime": "2026-10-03T16:46:42.021Z",
+    "reactions": {
+     "likes": 0,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [
+     {
+      "type": "photo",
+      "id": "17670872_2a000001a102a944aa90931ff9b3c60fb072",
+      "businessId": "1263567291",
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/17670872/2a000001a102a944aa90931ff9b3c60fb072/{size}",
+      "createdTime": 1791046013814,
+      "moderation": {
+       "status": "ACCEPTED"
+      },
+      "showReactions": true,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0,
+       "userReaction": "NONE"
+      },
+      "copyright": {
+       "name": "Дгп110 Ф2Анна",
+       "publicId": "zmvdm6p5b35nwxjwec2202g4z0",
+       "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63032/q2DMhX9cityZd1Ogy6232L3DlBw-1/{size}",
+       "updateTime": 1791046013814,
+       "hasPublicProfile": true,
+       "isSubscribed": false
+      }
+     },
+     {
+      "type": "photo",
+      "id": "19753710_2a000001a102a961052d0144773331cb2dfc",
+      "businessId": "1263567291",
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/19753710/2a000001a102a961052d0144773331cb2dfc/{size}",
+      "createdTime": 1791046022331,
+      "moderation": {
+       "status": "ACCEPTED"
+      },
+      "showReactions": true,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0,
+       "userReaction": "NONE"
+      },
+      "copyright": {
+       "name": "Дгп110 Ф2Анна",
+       "publicId": "zmvdm6p5b35nwxjwec2202g4z0",
+       "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63032/q2DMhX9cityZd1Ogy6232L3DlBw-1/{size}",
+       "updateTime": 1791046022331,
+       "hasPublicProfile": true,
+       "isSubscribed": false
+      }
+     },
+     {
+      "type": "photo",
+      "id": "21980547_2a000001a102a92ca07f2f3730d4bd9192f4",
+      "businessId": "1263567291",
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/21980547/2a000001a102a92ca07f2f3730d4bd9192f4/{size}",
+      "createdTime": 1791046007678,
+      "moderation": {
+       "status": "ACCEPTED"
+      },
+      "showReactions": true,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0,
+       "userReaction": "NONE"
+      },
+      "copyright": {
+       "name": "Дгп110 Ф2Анна",
+       "publicId": "zmvdm6p5b35nwxjwec2202g4z0",
+       "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/63032/q2DMhX9cityZd1Ogy6232L3DlBw-1/{size}",
+       "updateTime": 1791046007678,
+       "hasPublicProfile": true,
+       "isSubscribed": false
+      }
+     }
+    ],
+    "videos": [],
+    "pinned": false
+   },
+   {
+    "businessComment": {
+     "text": "Екатерина!!! Спасибо вам огромное за такой чудесный отзыв! 😊\n\nОчень рады, что малышка Росси порода цвергшнауцер, после зимнего «запуска» наконец-то в полном порядке! 🙈 Про «шерсти на ещё двух собак» — мы в шоке, но знаем, о чём вы 😁 А стиль «похожа на шнауцера» — это отдельный комплимент нашим мастерам, спасибо!\n\n«Балути» работает уже более 16 лет, а наши мастера по триммингу имеют опыт свыше 13 лет. Именно поэтому мы знаем, как подойти даже самой обросшей и капризной собаке, сохранить ей психологический комфорт и идеально оформить силуэт.\nПородный тримминг по всем стандартам, это сложный и трудоемкий труд на несколько часов. \n\nНо главное, что Росси ласкалась к мастеру и не пыталась сразу убежать — для нас это высшая оценка бережного груминга.\n\nБудем рады видеть вас снова в «Балути» и в других наших филиалах в Москве:\n🐾 Свиблово\n🐾 Нижегородская / Таганская\n🐾 Лефортово\n🐾 Бульвар Рокоссовского / Метрогородок\n🐾 Гольяново / Измайлово\n🐾 Варшавская / Зюзино\n\n📱 Запись онлайн и по телефонам:\n+7 (901) 780-67-17\n+7 (985) 764-90-58 (WhatsApp)\n🔗 https://balyti.ru/ — онлайн-запись\n\nНаши соцсети и мессенджеры:\n📩 Telegram: https://t.me/balytivip\n📩 Общий Telegram: @Grooming_salon_Balyti\n📩 Telegram Свиблово: @balyti_sviblovo\n📩 VK: https://vk.com/yorki_shpitzi_grooming\n\n🔗 Добавляйте нас в контакты:\nhttps://max.ru/join/eHvANtKHZMdDE2lfDc1WtfJ-YZMRcJFlvZNvL7EpqrI\n\nПодписывайтесь 🙏 Заранее 😻 спасибо 💕\n\nДо новых стрижек и спасибо, что выбрали нас! ❤️❤️❤️\n",
+     "updatedTime": "2026-04-24T07:55:10.471Z"
+    },
+    "reviewId": "pTNu2HMTpZz5w4-msHtGasmxeRkhhR",
+    "businessId": "1263567291",
+    "author": {
+     "name": "Екатерина Викторовна Кузовкина",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/uFRofShleQodcUQC7NsWWxzVI4-1/{size}",
+     "professionLevel": "Знаток города 10 уровня",
+     "rtb": "Знаток города 10 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "jwu694wn896vqcd8vg77dgd1tm",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Очень довольна! Цверг Росси за зиму жутко обросла, а тут ее привели в полный порядок: убрали много лишней шерсти (можно сделать еще две собаки))), сделали похожей на шнауцера ))), аккуратно оформили мордочку и силуэт. Отдельно отмечу, что Росси после неприятной процедуры ласкалась к мастеру, а не пыталась сразу убежать ))) бережное отношение к собаке налицо. В следующий раз только  сюда!",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Çok memnunum! Rossi kış boyunca çok büyüdü, ama sonra onu tamamen düzene soktular: çok fazla yün çıkardılar (iki köpek daha yapabilirsiniz))), bir Schnauzer'a benzettiler))), yüzünü ve siluetini dikkatlice tasarladılar. Ayrıca, hoş olmayan bir prosedürden sonra Rossi'nin ustaya okşadığını ve hemen kaçmaya çalışmadığını not edeceğim))) köpeğe karşı dikkatli bir tutum var. Bir dahaki sefere buraya gel!"
+    },
+    "rating": 5,
+    "updatedTime": "2026-04-20T17:09:07.021Z",
+    "reactions": {
+     "likes": 3,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [],
+    "videos": [],
+    "pinned": false
+   }
+  ],
+  "params": {
+   "offset": 0,
+   "limit": 3,
+   "count": 260,
+   "loadedReviewsCount": 3,
+   "page": 1,
+   "totalPages": 87,
+   "reviewsRemained": 257
+  },
+  "tags": [],
+  "aspects": [
+   {
+    "text": "Персонал",
+    "count": 198,
+    "positive": 169,
+    "negative": 14
+   },
+   {
+    "text": "Чистота",
+    "count": 15,
+    "positive": 12,
+    "negative": 2
+   }
+  ]
+ },
+ "reviewPollData": {
+  "aspects": []
+ }
+}

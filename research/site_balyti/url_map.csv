@@ -1,0 +1,290 @@
+old_url,status,section,title,text_chars,images,new_url,action,redirect_target,inbound_links
+https://balyti.ru/,200,Главная,"Груминг салон «Балути» Стрижка собак, стрижка кошек. Тримминг",3100,0,/,keep,,251
+https://balyti.ru/services.html,200,Услуги,Парикмахерская для собак: все услуги ухода за шерстью. Тримминг собак.,5864,16,/uslugi/services,redirect,,250
+https://balyti.ru/price.html,302,Цены,,,0,/ceny,проверить,https://balyti.ru/price/strizhka-sobak.html,251
+https://balyti.ru/contacts.html,200,Салоны,"АДРЕСА НАШИХ САЛОНОВ.                 Сеть груминг салонов ""Балути""",7824,29,/salony,redirect,,250
+https://balyti.ru/comments.html,200,Отзывы,Отзывы,15732,99,/otzyvy,redirect,,252
+https://balyti.ru/gallery.html,200,Галерея / породы,Галерея,14176,74,/galereya,redirect,,250
+https://balyti.ru/grooming-dog.html,200,Договор-оферта,Договор оферты,17784,0,/oferta,redirect,,250
+https://balyti.ru/price/strizhka-koshek.html,200,Цены,"СТРИЖКА КОШКИ, Экспресс линька. Груминг кота. Зоосалон Балути.",19118,29,/ceny?tab=koshki,redirect,,65
+https://balyti.ru/price/strizhka-sobak.html,200,Цены,Прайс лист | Стрижка собак,37646,2,/ceny,redirect,,105
+https://balyti.ru/index/news.html,200,Акции и новости,"Новости зоосалона ""Балути""",13085,26,/akcii,redirect,,25
+https://balyti.ru/index/offers.html,200,Акции и новости,"Акции, скидки.",1705,3,/akcii,redirect,,251
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak.html,200,Мастера,"Мастера породники - зоосалона ""Балути""",5943,4,/mastera,redirect,,26
+https://balyti.ru/index/advise.html,200,Вопросы и ответы,Вопросы по уходу,5688,11,/faq,redirect,,26
+https://balyti.ru/index/vacancy.html,200,Вакансии,Вакансии зоосалона,5972,12,/vakansii,redirect,,26
+https://balyti.ru/index/landlords.html,200,Аренда,"Сотрудничество, аренда.",8949,0,/arenda,redirect,,25
+"https://balyti.ru/index/strizhka-sobak,-koshek,-jorka-arbatskaya.html",200,Салоны (закрытые/SEO-районы),"Стрижка собак, кошек, йорка Арбатская",19528,8,/salony,redirect,,25
+"https://balyti.ru/index/strizhka-sobak,-koshki-cheremushki.html",200,Салоны (закрытые/SEO-районы),"Стрижка собак, кошки Черемушки.",2002,7,/salony,redirect,,25
+"https://balyti.ru/index/domodedovskaya-strizhka-sobak,-koshek.-trimming.html",200,Салоны (закрытые/SEO-районы),"Домодедовская стрижка собак, кошек. Тримминг",2321,9,/salony,redirect,,25
+https://balyti.ru/index/nashe-oborudovanie-dlya-gruming-salona.html,200,О компании,Наше оборудование для груминг салона,124,0,/o-kompanii,redirect,,25
+https://balyti.ru/booking,404,Прочее,,,0,/,битая ссылка,,4
+https://balyti.ru/services/bebi-gruming-dlya-shhenkov.html,200,Услуги,Беби груминг для щенков,1480,5,/uslugi/bebi-gruming-dlya-shhenkov,redirect,,23
+https://balyti.ru/services/strizhka-koshek.html,200,Услуги,Стрижка кошек: профессиональный уход за вашим питомцем,8671,18,/uslugi/strizhka-koshek,redirect,,23
+https://balyti.ru/services/spa-proczeduryi.html,200,Услуги,Spa - процедуры,5403,6,/uslugi/spa-proczeduryi,redirect,,25
+https://balyti.ru/services/ekspress-linka-koshek.html,200,Услуги,Экспресс линька кошек,3537,10,/uslugi/ekspress-linka-koshek,redirect,,23
+https://balyti.ru/services/trimming-strizhka-sobak.html,200,Услуги,Профессиональный тримминг терьеров и собак других пород,7786,29,/uslugi/trimming-strizhka-sobak,redirect,,29
+https://balyti.ru/services/myagkie-kogotki.html,200,Услуги,"Мягкие коготки, Антицарапки.",4507,14,/uslugi/myagkie-kogotki,redirect,,35
+https://balyti.ru/services/chistka-zubnogo-kamnya.html,200,Услуги,Чистка зубного камня,16464,41,/uslugi/chistka-zubnogo-kamnya,redirect,,88
+https://balyti.ru/services/strizhka-jorkov.html,200,Услуги,Стрижка йорков: профессиональный подход!,17076,70,/uslugi/strizhka-jorkov,redirect,,28
+https://balyti.ru/services/strizhka-pekinesa.html,200,Услуги,Стрижка пекинеса и собак других пород,2699,1,/uslugi/strizhka-pekinesa,redirect,,23
+https://balyti.ru/services/kreativ.html,200,Услуги,Креатив,4344,21,/uslugi/kreativ,redirect,,33
+https://balyti.ru/services/gigienicheskaya-strizhka-sobak.html,200,Услуги,Гигиеническая стрижка собак,1795,4,/uslugi/gigienicheskaya-strizhka-sobak,redirect,,23
+https://balyti.ru/services/kompleksnyij-uxod-za-sobakoj-v-salone-krasotyi-moskva.html,200,Услуги,"Комплексный уход за собакой в салоне красоты ""Балути""",1748,0,/uslugi/kompleksnyij-uxod-za-sobakoj-v-salone-krasotyi-moskva,redirect,,27
+https://balyti.ru/services/gruming-dlya-krupnyix-porod.html,200,Услуги,Груминг для крупных пород,20998,70,/uslugi/gruming-dlya-krupnyix-porod,redirect,,29
+https://balyti.ru/services/uxod-za-koshkoj.html,200,Услуги,Уход за кошкой,7619,2,/uslugi/uxod-za-koshkoj,redirect,,26
+https://balyti.ru/gallery/modeli-strizhek-jork/vidyi-strizhek-biver-jorkshirskogo-terera.html,200,Галерея / породы,Виды стрижек бивер йоркширского терьера,11390,31,/porody/vidyi-strizhek-biver-jorkshirskogo-terera,redirect,,39
+https://balyti.ru/contacts/kontaktyi-zoosalona-m.-varashavskaya.html,200,Салоны,"Контакты Зоосалона ""Балути"" м. Варшавская - груминг салон в ЮАО",5072,22,/salony/varshavskaya,redirect,,41
+https://balyti.ru/contacts/zoosalon-shhelkovskaya.html,200,Салоны,"Груминг салон ""Балути"" в Измайлово",9708,22,/salony/shchelkovsky,redirect,,24
+"https://balyti.ru/contacts/zoosalon-na-nizhegorodskoj,-50.html",200,Салоны,"Зоосалон м. Марксистская, Рязанский проспект, ул. Нижегородская, дом 50 в ТЦ ТРИД",6447,9,/salony/nizhegorodskaya,redirect,,40
+https://balyti.ru/contacts/strizhka-sobak-i-koshek-v-sviblovo.html,200,Салоны,"Свиблово - стрижка собак и кошек. Груминг. Зоосалон ""Балути"" Тримминг.  Экспресс линька",11520,37,/salony/sviblovo,redirect,,25
+https://balyti.ru/index/strizhka-sobak-i-koshek-bulvar-rokossovskogo.html,200,Салоны,Салон Бульвар Маршала Рокоссовского,19394,62,/salony/rokossovskogo,redirect,,26
+https://balyti.ru/contacts/grooming_dom.html,200,Выезд на дом,Выезд грумера на дом,20964,17,/uslugi/vyezd-na-dom,redirect,,55
+https://balyti.ru/contacts/zoosalon-pionerskaya.html,200,Салоны (закрытые/SEO-районы),"Зоосалон Пионерская, Филёвский парк и Фили-Давыдково",7988,21,/salony,redirect,,24
+https://balyti.ru/contacts/zoosalon-sokolniki.html,200,Салоны (закрытые/SEO-районы),Зоосалон Сокольники,3098,11,/salony,redirect,,24
+https://balyti.ru/contacts/beskudnikovskij-i-dmitrovskij-rajon-zoosalon.html,200,Салоны (закрытые/SEO-районы),Бескудниковский и Дмитровский район зоосалон,4123,12,/salony,redirect,,24
+https://balyti.ru/undefined/,404,Прочее,,,0,/,битая ссылка,,2
+"https://balyti.ru/comments/otzyivyi-o-strizhkax-koshki,kota.html",200,Отзывы,"Отзывы о стрижках и услугах для кошки, кота",13071,28,/otzyvy,redirect,,7
+https://balyti.ru/comments/otzyivyi-o-zoosalonax.html,200,Отзывы,Отзывы о зоосалонах,9967,55,/otzyvy,redirect,,4
+https://balyti.ru/gallery/strizhka-sobak.html,200,Галерея / породы,"Жизнь ""Балути""",9951,61,/porody/strizhka-sobak,redirect,,126
+https://balyti.ru/gallery/strizhki_koshek.html,200,Галерея / породы,"Груминг кошек, котиков.",21592,77,/porody/strizhki_koshek,redirect,,131
+https://balyti.ru/gallery/modeli-strizhek-jork.html,200,Галерея / породы,Йоркширские терьеры- Бивер йорки,24595,87,/porody/modeli-strizhek-jork,redirect,,129
+https://balyti.ru/gallery/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi.html,200,Галерея / породы,Креативные стрижки,13228,60,/porody/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi,redirect,,129
+https://balyti.ru/gallery/gruming-aussi.html,200,Галерея / породы,Груминг аусси,2069,2,/porody/gruming-aussi,redirect,,125
+https://balyti.ru/gallery/gruming-akita-inu-lajka-samoed.html,200,Галерея / породы,"Акита ину, Лайка, Хаски",14278,27,/porody/gruming-akita-inu-lajka-samoed,redirect,,125
+https://balyti.ru/gallery/alabaj-gruming.html,200,Галерея / породы,Алабай груминг,6831,1,/porody/alabaj-gruming,redirect,,125
+https://balyti.ru/gallery/strizhka-trimming-affenpinchera.html,200,Галерея / породы,Аффенпинчер,1826,1,/porody/strizhka-trimming-affenpinchera,redirect,,125
+https://balyti.ru/gallery/strizhka-bedlington-terer-(bedligton).html,200,Галерея / породы,Бедлингтон терьер,4378,3,/porody/strizhka-bedlington-terer-(bedligton),redirect,,125
+https://balyti.ru/gallery/strizhka-gruming-bernskogo-zennenxunda.html,200,Галерея / породы,Бернский зенненхунд,8456,8,/porody/strizhka-gruming-bernskogo-zennenxunda,redirect,,126
+https://balyti.ru/gallery/ekspress-linka-bigl.html,200,Галерея / породы,Бигль,3349,6,/porody/ekspress-linka-bigl,redirect,,125
+https://balyti.ru/gallery/strizhka_bishon_frize.html,200,Галерея / породы,Бишон фризе / Хаванез,10656,48,/porody/strizhka_bishon_frize,redirect,,126
+https://balyti.ru/gallery/strizhka-bobtejla-salon-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,Бобтейл,1532,2,/porody/strizhka-bobtejla-salon-na-domu-v-moskve-nedorogo,redirect,,125
+"https://balyti.ru/gallery/kupanie,-ekspress-linka,-kogti-dlya-nemeczkogo-boksera.html",200,Галерея / породы,Боксер немецкий,72,0,"/porody/kupanie,-ekspress-linka,-kogti-dlya-nemeczkogo-boksera",redirect,,125
+https://balyti.ru/gallery/gruming-boksera.html,200,Галерея / породы,Боксер,85,1,/porody/gruming-boksera,redirect,,125
+https://balyti.ru/gallery/trimming-border-terera.html,200,Галерея / породы,Бордер терьер,10893,7,/porody/trimming-border-terera,redirect,,125
+https://balyti.ru/gallery/bordoskij-dog.-gruming.html,200,Галерея / породы,Бордоский дог. Груминг.,7975,2,/porody/bordoskij-dog.-gruming,redirect,,125
+https://balyti.ru/gallery/strizhka-afganskoj-borzoj-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,Борзая,8930,1,/porody/strizhka-afganskoj-borzoj-na-domu-v-moskve-nedorogo,redirect,,125
+"https://balyti.ru/gallery/gruming-buldoga,-podgotovka-k-vyistavke.html",200,Галерея / породы,"Бульдог, груминг, подготовка к выставке",13114,22,"/porody/gruming-buldoga,-podgotovka-k-vyistavke",redirect,,128
+https://balyti.ru/gallery/gruming-velsh-korgi.html,200,Галерея / породы,Вельш корги,6032,24,/porody/gruming-velsh-korgi,redirect,,126
+https://balyti.ru/gallery/velsh-terer-trimming-strizhka.html,200,Галерея / породы,Вельш-терьер тримминг стрижка,6947,5,/porody/velsh-terer-trimming-strizhka,redirect,,125
+https://balyti.ru/gallery/vest-hailend.html,200,Галерея / породы,Вест Хайленд вайт - уайт терьер,26021,70,/porody/vest-hailend,redirect,,126
+https://balyti.ru/gallery/griffon-brabanson.html,200,Галерея / породы,"Гриффоны, Барбансоны - тримминг",17443,43,/porody/griffon-brabanson,redirect,,126
+https://balyti.ru/gallery/bolshoj-vandejskij-griffon.html,200,Галерея / породы,Гриффон Большой Вандейский.,2135,2,/porody/bolshoj-vandejskij-griffon,redirect,,125
+https://balyti.ru/gallery/trimming-dzhek-rassel-tererov-v-moskve.html,200,Галерея / породы,Джек Рассел терьер,9908,21,/porody/trimming-dzhek-rassel-tererov-v-moskve,redirect,,126
+https://balyti.ru/gallery/trimming-dratxaar.html,200,Галерея / породы,Дратхаар,441,2,/porody/trimming-dratxaar,redirect,,125
+https://balyti.ru/gallery/irlandskij-volkodav.html,200,Галерея / породы,Ирландский волкодав,1031,2,/porody/irlandskij-volkodav,redirect,,125
+https://balyti.ru/gallery/strizhka-irlandskogo-terera-v-zoosalone-i-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,Ирландский терьер,4387,5,/porody/strizhka-irlandskogo-terera-v-zoosalone-i-na-domu-v-moskve-nedorogo,redirect,,125
+https://balyti.ru/gallery/kavapu-gruming-strizhka.html,200,Галерея / породы,Кавапу груминг стрижка,3349,7,/porody/kavapu-gruming-strizhka,redirect,,126
+https://balyti.ru/gallery/kane-korso-gruming.html,200,Галерея / породы,Кане корсо груминг,1317,1,/porody/kane-korso-gruming,redirect,,125
+https://balyti.ru/gallery/kerri-blyu-terer.html,200,Галерея / породы,Керри блю терьер,2690,0,/porody/kerri-blyu-terer,redirect,,125
+https://balyti.ru/gallery/trimming-kern-terera.html,200,Галерея / породы,Керн терьер тримминг.,11755,17,/porody/trimming-kern-terera,redirect,,127
+https://balyti.ru/gallery/strizhka-kitajskoj-xoxlatoj-puxovki.html,200,Галерея / породы,"Китайская(мексиканская) хохлатая пуховка, голая",14017,32,/porody/strizhka-kitajskoj-xoxlatoj-puxovki,redirect,,127
+https://balyti.ru/gallery/koton-de-tulear.-gruming.html,200,Галерея / породы,Котон-де-тулеар. Груминг,3077,2,/porody/koton-de-tulear.-gruming,redirect,,125
+"https://balyti.ru/gallery/strizhka-xavanez,-xavanes.html",200,Галерея / породы,"Груминг хаванез, хаванес",2591,3,"/porody/strizhka-xavanez,-xavanes",redirect,,125
+https://balyti.ru/gallery/keesxond.html,200,Галерея / породы,Кеесхонд,4060,2,/porody/keesxond,redirect,,126
+https://balyti.ru/gallery/shelti-gruming.html,200,Галерея / породы,Шелти груминг,3660,0,/porody/shelti-gruming,redirect,,125
+https://balyti.ru/gallery/yagd-terer-trimming.html,200,Галерея / породы,ягд терьер тримминг,4199,0,/porody/yagd-terer-trimming,redirect,,125
+https://balyti.ru/gallery/strizhka-koker-spanielej.html,200,Галерея / породы,"Кокера, спаниели",7452,19,/porody/strizhka-koker-spanielej,redirect,,126
+https://balyti.ru/gallery/chistka-zubov!-air-flow.-ultrazvuk.html,200,Галерея / породы,Чистка зубов! Air Flow. Ультразвук,2675,6,/porody/chistka-zubov!-air-flow.-ultrazvuk,redirect,,125
+https://balyti.ru/gallery/strizhka-kolli.html,200,Галерея / породы,Колли,9466,23,/porody/strizhka-kolli,redirect,,126
+"https://balyti.ru/gallery/strizhka-morskix-svinok,kroliki.html",200,Галерея / породы,Кролик  груминг уход,6921,16,"/porody/strizhka-morskix-svinok,kroliki",redirect,,126
+https://balyti.ru/gallery/Labradoodle-grooming.html,200,Галерея / породы,Лабродудель,939,0,/porody/labradoodle-grooming,redirect,,125
+https://balyti.ru/gallery/strizhka-lxasa-apso.html,200,Галерея / породы,Лхаса Апсо,3028,9,/porody/strizhka-lxasa-apso,redirect,,127
+https://balyti.ru/gallery/strizhka-lisyi.html,200,Галерея / породы,Лиса,452,1,/porody/strizhka-lisyi,redirect,,125
+https://balyti.ru/gallery/strizhka-maltipu.html,200,Галерея / породы,Мальтипу,10571,29,/porody/strizhka-maltipu,redirect,,126
+https://balyti.ru/gallery/malteze-maltijskaya-bolonka-strizhka.html,200,Галерея / породы,Мальтезе - мальтийская Болонка стрижка,10786,51,/porody/malteze-maltijskaya-bolonka-strizhka,redirect,,126
+https://balyti.ru/gallery/mastif-gruming.html,200,Галерея / породы,Мастиф - груминг,702,1,/porody/mastif-gruming,redirect,,125
+https://balyti.ru/gallery/metisyi.html,200,Галерея / породы,Метисы,3321,19,/porody/metisyi,redirect,,125
+https://balyti.ru/gallery/strizhka-krolika-morskaya-svinka.html,200,Галерея / породы,Морская свинка груминг,2361,12,/porody/strizhka-krolika-morskaya-svinka,redirect,,125
+https://balyti.ru/gallery/strizhka-mittelshnauczera-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,Миттельшнауцер тримминг,9126,15,/porody/strizhka-mittelshnauczera-na-domu-v-moskve-nedorogo,redirect,,126
+https://balyti.ru/gallery/mops-strizhka.html,200,Галерея / породы,"Мопс стрижка, экспресс линька",4549,15,/porody/mops-strizhka,redirect,,125
+https://balyti.ru/gallery/nyufaundlend.html,200,Галерея / породы,Ньюфаундленд,2566,13,/porody/nyufaundlend,redirect,,125
+https://balyti.ru/gallery/strizhka-trimming-norvich-terera.html,200,Галерея / породы,Норвич терьер,9515,24,/porody/strizhka-trimming-norvich-terera,redirect,,126
+https://balyti.ru/gallery/trimming-norfolk-terera.html,200,Галерея / породы,Норфолк терьер,440,0,/porody/trimming-norfolk-terera,redirect,,125
+https://balyti.ru/gallery/ovcharki.html,200,Галерея / породы,Овчарка,9298,33,/porody/ovcharki,redirect,,126
+https://balyti.ru/gallery/orxideya.html,200,Галерея / породы,Орхидея -стрижка,9037,23,/porody/orxideya,redirect,,127
+https://balyti.ru/gallery/pekinesyi.html,200,Галерея / породы,Пекинес стрижка,8280,18,/porody/pekinesyi,redirect,,129
+https://balyti.ru/gallery/gruming-papilona.html,200,Галерея / породы,Папильон,1183,2,/porody/gruming-papilona,redirect,,125
+https://balyti.ru/gallery/gruming-pinchera.html,200,Галерея / породы,Пинчер,435,3,/porody/gruming-pinchera,redirect,,125
+https://balyti.ru/gallery/foto-strizhek-pudelya.html,200,Галерея / породы,Пуделя,19575,80,/porody/foto-strizhek-pudelya,redirect,,126
+https://balyti.ru/gallery/pti-barbanson-gruming.html,200,Галерея / породы,Пти Барбансон груминг,1568,6,/porody/pti-barbanson-gruming,redirect,,125
+https://balyti.ru/gallery/gruming-puli.html,200,Галерея / породы,Груминг пули,6764,2,/porody/gruming-puli,redirect,,125
+https://balyti.ru/gallery/strizhka-retrivera-labrador-golden.html,200,Галерея / породы,"Ретривер, лабрадор, голден",10881,14,/porody/strizhka-retrivera-labrador-golden,redirect,,125
+https://balyti.ru/gallery/trimming-rizenshnauczera-strizhka.html,200,Галерея / породы,Ризеншнауцер,5660,15,/porody/trimming-rizenshnauczera-strizhka,redirect,,129
+https://balyti.ru/gallery/strizhka-russkoj-salonnoj-sobaki.html,200,Галерея / породы,Русская  салонная собака,1081,7,/porody/strizhka-russkoj-salonnoj-sobaki,redirect,,126
+"https://balyti.ru/gallery/samoed-gruming,-linka.html",200,Галерея / породы,"Самоед груминг, линька",975,5,"/porody/samoed-gruming,-linka",redirect,,125
+https://balyti.ru/gallery/gruming-salyuki.html,200,Галерея / породы,Салюки,559,1,/porody/gruming-salyuki,redirect,,125
+https://balyti.ru/gallery/skotch-terer-strizhka-trimming.html,200,Галерея / породы,Скотч терьер,14360,36,/porody/skotch-terer-strizhka-trimming,redirect,,127
+https://balyti.ru/gallery/strizhka-skaj-terera-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,"Скай терьер груминг, стрижка.",2224,2,/porody/strizhka-skaj-terera-na-domu-v-moskve-nedorogo,redirect,,125
+https://balyti.ru/gallery/gruming-tibetskogo-mastifa.html,200,Галерея / породы,Тибетский мастиф,7543,4,/porody/gruming-tibetskogo-mastifa,redirect,,125
+https://balyti.ru/gallery/trimming-zhestkosherstnoj-taksyi-foto.html,200,Галерея / породы,Такса -Тримминг,9323,21,/porody/trimming-zhestkosherstnoj-taksyi-foto,redirect,,128
+https://balyti.ru/gallery/strizhka-tibetskogo-terera.html,200,Галерея / породы,Тибетский терьер,2050,0,/porody/strizhka-tibetskogo-terera,redirect,,127
+https://balyti.ru/gallery/gruming-tollera.html,200,Галерея / породы,Толлер,1727,1,/porody/gruming-tollera,redirect,,125
+"https://balyti.ru/gallery/strizhka-toj-terera,-gruming.html",200,Галерея / породы,"Той терьера, груминг - стрижка",9361,6,"/porody/strizhka-toj-terera,-gruming",redirect,,125
+https://balyti.ru/gallery/trimming-sobak.html,200,Галерея / породы,Тримминг собак,4973,35,/porody/trimming-sobak,redirect,,126
+https://balyti.ru/gallery/gruming-xaski-v-zoosalone.html,200,Галерея / породы,ХАСКИ- груминг уход,16916,43,/porody/gruming-xaski-v-zoosalone,redirect,,125
+https://balyti.ru/gallery/trimming-strizhka-shhipka-zhestkoshyorstnogo-foksterera.html,200,Галерея / породы,Фокстерьер,11670,11,/porody/trimming-strizhka-shhipka-zhestkoshyorstnogo-foksterera,redirect,,127
+https://balyti.ru/gallery/trimming-czvergshnauczera.html,200,Галерея / породы,Цвергшнауцер тримминг,10062,43,/porody/trimming-czvergshnauczera,redirect,,127
+https://balyti.ru/gallery/chau-chau-strizhka.html,200,Галерея / породы,Чау- чау,7712,17,/porody/chau-chau-strizhka,redirect,,127
+https://balyti.ru/gallery/strizhka-chixua-xua.html,200,Галерея / породы,Чихуа-хуа,7959,12,/porody/strizhka-chixua-xua,redirect,,128
+https://balyti.ru/gallery/strizhka-moskovskogo-chernogo-terera.html,200,Галерея / породы,Черный терьер,8986,4,/porody/strizhka-moskovskogo-chernogo-terera,redirect,,127
+https://balyti.ru/gallery/strizhka-chixua-xua-toj-terera.html,200,Галерея / породы,"Чихуа-хуа, Той терьер.",4930,24,/porody/strizhka-chixua-xua-toj-terera,redirect,,126
+https://balyti.ru/gallery/cheshskij-terer.html,200,Галерея / породы,Чешский терьер,763,0,/porody/cheshskij-terer,redirect,,126
+https://balyti.ru/gallery/gruming-shiba-inu.html,200,Галерея / породы,Сиба-ину,12166,31,/porody/gruming-shiba-inu,redirect,,125
+https://balyti.ru/gallery/shi-tczu.html,200,Галерея / породы,Ши - тцу стрижки,22043,96,/porody/shi-tczu,redirect,,127
+https://balyti.ru/gallery/shipperke-gruming-sobak-vyichesyivanie.html,200,Галерея / породы,Шипперке груминг собак вычесывание,3366,2,/porody/shipperke-gruming-sobak-vyichesyivanie,redirect,,127
+https://balyti.ru/gallery/strizhka-yaponskij-xin.html,200,Галерея / породы,Японский хин,1276,4,/porody/strizhka-yaponskij-xin,redirect,,125
+https://balyti.ru/gallery/shpicz.html,200,Галерея / породы,"Шпиц  -груминг, стрижка.",25773,135,/porody/shpicz,redirect,,128
+https://balyti.ru/gallery/yaponskij-shpicz-gruming.html,200,Галерея / породы,Японский шпиц - груминг,493,0,/porody/yaponskij-shpicz-gruming,redirect,,125
+https://balyti.ru/gallery/strizhka-trimming-erdelterera.html,200,Галерея / породы,Эрдельтерьер - стрижка,5870,17,/porody/strizhka-trimming-erdelterera,redirect,,126
+https://balyti.ru/grooming-dog/ssyilki1.html,200,Прочее,Зоосалон Москва,1859,3,/,redirect,,3
+https://balyti.ru/grooming-dog/obmen-ssyilkami-baneryi.html,200,Прочее,Обмен ссылками Банеры,3466,5,/,redirect,,3
+https://balyti.ru/price/prochie-uslugi-po-uxodu.html,200,Цены,Прочие услуги по уходу,12212,22,/ceny,redirect,,28
+https://balyti.ru/index/vacancy/obuchenie.html,200,Школа груминга,ШКОЛА ГРУМИНГА. ОБУЧЕНИЕ ГРУМИНГУ,17026,4,/shkola,redirect,,21
+https://balyti.ru/price/uslugi-dlya-pticz.html,200,Цены,"Услуги для птиц. -Жако; Ара; Какаду; Электусы; Попугай; Птицы; Амадины (ручные), воробьиные, волнистые попугайчики.",926,1,/ceny,redirect,,10
+"https://balyti.ru/price/strizhka-loshadi,-poni.html",200,Цены,"СТРИЖКА ЛОШАДИ, ПОНИ",1555,3,/ceny,redirect,,10
+https://balyti.ru/services/2.1.html,404,Услуги,,,0,/uslugi/2.1,битая ссылка,,1
+https://balyti.ru/index.html,200,Главная,"Груминг салон «Балути» Стрижка собак, стрижка кошек. Тримминг",3100,0,/,redirect,,25
+https://balyti.ru/services/grooming_dom.html,404,Услуги,,,0,/uslugi/grooming_dom,битая ссылка,,7
+https://balyti.ru/gallery/strizhki_koshek/strizhka-kota-v-koltunax.html,200,Галерея / породы,Стрижка кота в колтунах,10375,15,/porody/strizhka-kota-v-koltunax,redirect,,16
+https://balyti.ru/gallery/strizhki_koshek/markiz.html,200,Галерея / породы,Стрижка персидского кота Москва,4683,9,/porody/markiz,redirect,,15
+https://balyti.ru/price/strizhka-sobak/pudeli-strizhka-czena.html,200,Цены,"Пудель, лабрадудель, груминг, ти-кап, тедди стрижка цена",14166,55,/ceny,redirect,,7
+https://balyti.ru/price/strizhka-sobak/strizhka-koker-spanielya-czena.html,200,Цены,Стрижка кокер спаниеля цена,2680,0,/ceny,redirect,,6
+https://balyti.ru/price/strizhka-sobak/buldog-stoimost-gruming-uxoda.html,200,Цены,Бульдог - стоимость груминг ухода. Экспресс линька,3980,11,/ceny,redirect,,5
+https://balyti.ru/price/strizhka-sobak/chto-vxodit-v-stoimost-uslug.html,200,Цены,Что входит в стоимость услуг,3137,5,/ceny,redirect,,5
+https://balyti.ru/price/strizhka-sobak/borzyie-gruming.html,200,Цены,БОРЗЫЕ груминг,443,0,/ceny,redirect,,5
+https://balyti.ru/services/spa-proczeduryi/myite-shersti.html,200,Услуги,Водные процедуры. Грумер. Груминг,12903,27,/uslugi/myite-shersti,redirect,,20
+https://balyti.ru/gallery/trimming-zhestkosherstnoj-taksyi-foto/fotogalereya-strizhki-dlinnosherstnoj-taksyi-zoosalon.html,200,Галерея / породы,Длинношерстная такса- стрижка,1628,6,/porody/fotogalereya-strizhki-dlinnosherstnoj-taksyi-zoosalon,redirect,,3
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-na-domu-v-lyuberczax.html,200,Выезд на дом,Стрижка собак и кошек на дому  в Люберцах,5515,15,/uslugi/vyezd-na-dom,redirect,,17
+https://balyti.ru/price/udalenie-zubnogo-kamnya-ultrazvukom-bez-narkoza!.html,301,Цены,,,0,/ceny,проверить,http://balyti.ru/services/chistka-zubnogo-kamnya.html,6
+https://balyti.ru/index/news/evraziya-2013-podgotovka-k-vyistavke.html,200,Акции и новости,ЕВРАЗИЯ-2013 Подготовка к выставке.,4628,6,/akcii,redirect,,6
+https://balyti.ru/index/news/jork-shou-2013-vyistavka-jorkshirskix-tererov.html,200,Акции и новости,Йорк шоу 2013,1574,0,/akcii,redirect,,3
+https://balyti.ru/store/odezhda-dlya-koshek.html,200,Магазин,одежда для кошек,901,6,/,"redirect (или 410, если магазин закрыт)",,29
+https://balyti.ru/store/odezhda-dlya-sobak/for-my-dogs.html,200,Магазин,For My Dogs,849,0,/,"redirect (или 410, если магазин закрыт)",,13
+https://balyti.ru/store.html,404,Магазин,,,0,/,битая ссылка,,5
+https://balyti.ru/index/offers/strizhka-sobak-akczii.html,200,Акции и новости,стрижка собак акции,15949,8,/akcii,redirect,,1
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/gruming-strizhka-koshek-sobak-trimming.html,200,Мастера,Грумер Наталья,2191,2,/mastera,redirect,,7
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/master-gruminga.html,200,Мастера,Грумер - Анастасия Д,5508,12,/mastera,redirect,,7
+"https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/strizhka-sobak,-koshek,-grumer_master_zoosalon.html",200,Мастера,Свиблово - мастера,5170,14,/mastera,redirect,,7
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/groomer-dog-ket.html,200,Мастера,Вера - грумер,2385,0,/mastera,redirect,,7
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/grumer-stilist.html,200,Мастера,Яна - м. Марксистская,3931,20,/mastera,redirect,,7
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/grumer-strizhka-sobak-na-domu.html,200,Мастера,Елена - грумер,5328,16,/mastera,redirect,,7
+https://balyti.ru/index/vacancy/besplatnaya-strizhka-sobak.html,200,Вакансии,Бесплатная стрижка собак,1354,5,/vakansii,redirect,,3
+https://balyti.ru/index/vacancy/vakansiya-grumer.html,200,Вакансии,Вакансия грумер салон Москва,5699,9,/vakansii,redirect,,3
+https://balyti.ru/index/kursyi-strizhka-sobak/stazhirovka-v-zoosalone.html,404,Прочее,,,0,/,битая ссылка,,4
+https://balyti.ru/contacts/kruglosutochnaya-strizhka.html,404,Салоны (закрытые/SEO-районы),,,0,/salony,битая ссылка,,5
+"https://balyti.ru/services/spa-proczeduryi/podstriganie-kogtej-u-koshek,kotov.html",200,Услуги,подстригание когтей у кошек,4868,0,"/uslugi/podstriganie-kogtej-u-koshek,kotov",redirect,,13
+"https://balyti.ru/services/spa-proczeduryi/chistka-zhelez/chistka-zhelez-kotu,koshke.html",200,Услуги,"Чистка желез коту,кошке",5427,1,"/uslugi/chistka-zhelez-kotu,koshke",redirect,,3
+https://balyti.ru/gallery/strizhki_koshek/kreativ-dlya-kota.html,200,Галерея / породы,"Креатив для кошек, кота стрижки",6962,17,/porody/kreativ-dlya-kota,redirect,,18
+https://balyti.ru/services/spa-proczeduryi/strizhka-kogtej-u-sobak-koshek.html,200,Услуги,Cтрижка когтей собаке.,12589,20,/uslugi/strizhka-kogtej-u-sobak-koshek,redirect,,33
+https://balyti.ru/services/spa-proczeduryi/chistka-zhelez.html,200,Услуги,Железы чистка,5550,4,/uslugi/chistka-zhelez,redirect,,28
+https://balyti.ru/services/strizhka-koshek/strizhka-starogo-kota-v-koltunax.html,200,Услуги,Стрижка старого  кота в колтунах,2402,2,/uslugi/strizhka-starogo-kota-v-koltunax,redirect,,1
+https://balyti.ru/price/cats.html,404,Цены,,,0,/ceny,битая ссылка,,1
+https://balyti.ru/services/spa-proczeduryi/vyichesyivanie-shersti.html,200,Услуги,Вычесывание шерсти. Супер линька. Экспресс выддув.,15767,38,/uslugi/vyichesyivanie-shersti,redirect,,9
+https://balyti.ru/services/spa-proczeduryi/chistka-ushej.html,200,Услуги,Чистка ушей,2288,1,/uslugi/chistka-ushej,redirect,,9
+https://balyti.ru/services/spa-proczeduryi/gigienicheskaya-chistka-zubov-pastoj.html,200,Услуги,Гигиеническая чистка зубов пастой,1320,0,/uslugi/gigienicheskaya-chistka-zubov-pastoj,redirect,,10
+https://balyti.ru/services/spa-proczeduryi/dlya-sobak.html,200,Услуги,"Для собак. Экспресс линька. Грумер. Груминг. Тримминг. Купание,",891,0,/uslugi/dlya-sobak,redirect,,10
+https://balyti.ru/price/index.html,404,Цены,,,0,/ceny,битая ссылка,,1
+https://balyti.ru/index/prajs-list-strizhka-sobak.html,301,Прочее,,,0,/,проверить,http://balyti.ru/price/strizhka-sobak.html,5
+https://balyti.ru/gallery/modeli-strizhek-jork/jork-deni.html,200,Галерея / породы,Стрижка для мальчика йорка,12356,45,/porody/jork-deni,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/vernel.html,404,Галерея / породы,,,0,/porody/vernel,битая ссылка,,14
+https://balyti.ru/gallery/modeli-strizhek-jork/teddi-malyish.html,200,Галерея / породы,Стрижка йорка Тедди - малыш,7234,18,/porody/teddi-malyish,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/biver-jorkshirskij-terer.html,200,Галерея / породы,Бивер Йоркширский терьер,11057,43,/porody/biver-jorkshirskij-terer,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/do-i-posle.html,200,Галерея / породы,До и после,19404,65,/porody/do-i-posle,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-gruming-jorka-malchika-i-devochki-jorochki-zoosalon.html,200,Галерея / породы,Груминг Йорка мальчика и девочки йорочки,6428,9,/porody/strizhka-gruming-jorka-malchika-i-devochki-jorochki-zoosalon,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-jorkov-jorkshirskij-terer.html,200,Галерея / породы,Стрижка йорков,6432,5,/porody/strizhka-jorkov-jorkshirskij-terer,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-jorka_jorkshirskogo-terera-_malchika.html,200,Галерея / породы,Стрижка йоркширского терьера,3329,8,/porody/strizhka-jorka_jorkshirskogo-terera-_malchika,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/shhenyachi-strizhki-jorkshirskij-terer.html,200,Галерея / породы,Первая стрижка йоркширского терьера,9451,23,/porody/shhenyachi-strizhki-jorkshirskij-terer,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-mordyi-jorkshirskomu-tereru.html,200,Галерея / породы,Стрижка морды йоркширскому терьеру,10775,35,/porody/strizhka-mordyi-jorkshirskomu-tereru,redirect,,16
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhki-dlya-jorkshirskogo-terera-malchiki.html,200,Галерея / породы,Стрижки для йоркширского терьера мальчики,5207,21,/porody/strizhki-dlya-jorkshirskogo-terera-malchiki,redirect,,16
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/grumer-gruming-spa-salon-zoo-jork.html,404,Мастера,,,0,/mastera,битая ссылка,,1
+https://balyti.ru/gallery/modeli-strizhek-jork/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi.html,404,Галерея / породы,,,0,/porody/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi,битая ссылка,,1
+"https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-dlya-devochek,-jorka.html",200,Галерея / породы,"Стрижка для девочек, йорка.",6175,22,"/porody/strizhka-dlya-devochek,-jorka",redirect,,13
+https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-jorka-devochka-foto.html,200,Галерея / породы,стрижка йорка девочка-фото,5558,13,/porody/strizhka-jorka-devochka-foto,redirect,,13
+https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet.html,200,Магазин,SPA Lavish Your Pet,3785,17,/,"redirect (или 410, если магазин закрыт)",,6
+https://balyti.ru/price/strizhka-sobak/trimming-zhestkosherstnyix-sobak.html,404,Цены,,,0,/ceny,битая ссылка,,2
+https://balyti.ru/price/shkola-gruminga.-obuchenie-grumingu.html,301,Цены,,,0,/ceny,проверить,http://balyti.ru/index/vacancy/obuchenie.html,1
+https://balyti.ru/contacts/grooming_dom/trimming-na-domu-metro-aviamotornaya.html,200,Выезд на дом,"Стрижка собак, кошек, Авиамоторная.",15902,16,/uslugi/vyezd-na-dom,redirect,,16
+"https://balyti.ru/contacts/grooming_dom/strizhka-sobak,-koshek-v-balashixe.html",200,Выезд на дом,"Стрижка собак, кошек в Балашихе",6855,3,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-v-butovo.html,200,Выезд на дом,Стрижка собак в Бутово,7064,0,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-r-on-zhukovskij.html,200,Выезд на дом,Стрижка собак и кошек р-он Жуковский,3048,0,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-v-dzerzhinskij.html,200,Выезд на дом,стрижка собак и кошек в дзержинский,4537,1,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-v-krasnogorske.html,200,Выезд на дом,Стрижка собак и кошек в Красногорске,3755,1,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-v-myitishhi.html,200,Выезд на дом,Стрижка собак в Мытищи,4469,8,/uslugi/vyezd-na-dom,redirect,,16
+"https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-na-domu-korolyov,-pushkino.html",200,Выезд на дом,"Стрижка собак и кошек на дому Королёв, Пушкино",3867,0,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-koshek-kotov-na-domu.html,200,Выезд на дом,"Стрижка кошек, котов на дому.",986,1,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/parikmaxerskaya-dlya-sobak-v-podolske.html,200,Выезд на дом,Парикмахерская для собак в Подольске,3578,0,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-v-odinczovo.html,200,Выезд на дом,стрижка собак и кошек в Одинцово,3041,0,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-na-domu-reutovo.html,200,Выезд на дом,Стрижка собак и кошек на дому Реутово,4483,0,/uslugi/vyezd-na-dom,redirect,,16
+"https://balyti.ru/contacts/grooming_dom/zoosalon,-strizhka-sobak-volzhskaya.html",200,Выезд на дом,"Зоосалон, стрижка собак Волжская",2137,3,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/strizhka-sobak-i-koshek-v-shherbinke.html,200,Выезд на дом,Стрижка собак и кошек в Щербинке,5519,4,/uslugi/vyezd-na-dom,redirect,,16
+https://balyti.ru/contacts/grooming_dom/parikmaxerskaya-dlya-sobak-v-ximkax.html,200,Выезд на дом,Парикмахерская для собак в Химках,3567,0,/uslugi/vyezd-na-dom,redirect,,16
+"https://balyti.ru/store/odezhda-dlya-sobak/dozhdeviki,kurtki,na-osen,vesnu-dlya-sobak.html",200,Магазин,"Дождевики, куртки, комбинензоны: осень, весна, зима.",16456,93,/,"redirect (или 410, если магазин закрыт)",,15
+https://balyti.ru/links/obmen-ssyilkami-baneryi.html,404,Прочее,,,0,/,битая ссылка,,1
+https://balyti.ru/links.html,404,Прочее,,,0,/,битая ссылка,,1
+https://balyti.ru/links/ssyilki1.html,404,Прочее,,,0,/,битая ссылка,,1
+https://balyti.ru/gallery/strizhka-malteze.html,404,Галерея / породы,,,0,/porody/strizhka-malteze,битая ссылка,,1
+https://balyti.ru/gallery/strizhka-sobak/!.html,200,Галерея / породы,Стрижка кокера,19,0,/porody/!,redirect,,1
+https://balyti.ru/gallery/strizhki_koshek/ekspress-linka.html,200,Галерея / породы,Экспресс линька,5712,16,/porody/ekspress-linka,redirect,,13
+"https://balyti.ru/gallery/strizhki_koshek/vyichesyivanie-kota,-koshki.html",200,Галерея / породы,"Вычесывание кота, кошки",7640,27,"/porody/vyichesyivanie-kota,-koshki",redirect,,13
+"https://balyti.ru/gallery/strizhki_koshek/gruming-burma,-linka.html",200,Галерея / породы,"Груминг бурма, линька",4505,1,"/porody/gruming-burma,-linka",redirect,,13
+"https://balyti.ru/gallery/strizhki_koshek/strizhka-kota,-koshek-raznyie-porodyi.html",200,Галерея / породы,"Стрижка кота, кошек разные породы",8537,37,"/porody/strizhka-kota,-koshek-raznyie-porodyi",redirect,,13
+https://balyti.ru/gallery/strizhki_koshek/mejn-kun-strizhki.html,200,Галерея / породы,Мэйн куны стрижки,10557,39,/porody/mejn-kun-strizhki,redirect,,13
+https://balyti.ru/gallery/strizhki_koshek/strizhka-kota-mishka.html,200,Галерея / породы,Стрижка кота Мишка,2427,2,/porody/strizhka-kota-mishka,redirect,,13
+https://balyti.ru/gallery/strizhki_koshek/podstrigat-britanskogo-kota.html,200,Галерея / породы,Британские кошки,7991,34,/porody/podstrigat-britanskogo-kota,redirect,,14
+https://balyti.ru/gallery/strizhki_koshek/koshka-nevskaya-maskaradnaya-kak-strich_strizhka-kota.html,200,Галерея / породы,Кошка невская маскарадная как стричь_стрижка кота,1444,0,/porody/koshka-nevskaya-maskaradnaya-kak-strich_strizhka-kota,redirect,,14
+"https://balyti.ru/gallery/strizhki_koshek/vyistavka,-koshka.-kot.html",200,Галерея / породы,"Выставка, кошка. кот",769,5,"/porody/vyistavka,-koshka.-kot",redirect,,13
+https://balyti.ru/gallery/strizhki_koshek/strizhka-kurilskogo-bobtejla.html,200,Галерея / породы,Стрижка курильского бобтейла,1854,1,/porody/strizhka-kurilskogo-bobtejla,redirect,,13
+https://balyti.ru/store/odezhda-dlya-sobak/odezhda-dlya-koshek.html,200,Магазин,Одежда для кошек,96,1,/,"redirect (или 410, если магазин закрыт)",,13
+https://balyti.ru/gallery/strizhka_bishon_frize/kupanie-bishon-frize.html,200,Галерея / породы,Купание бишон фризе,5335,1,/porody/kupanie-bishon-frize,redirect,,1
+https://balyti.ru/services/chipirovanie-sobak.html,404,Услуги,,,0,/uslugi/chipirovanie-sobak,битая ссылка,,2
+"https://balyti.ru/gallery/vest-hailend/vesti-trimming,strizhka.html",200,Галерея / породы,Вест хайленд уайт тримминг,11287,44,"/porody/vesti-trimming,strizhka",redirect,,2
+https://balyti.ru/gallery/vest-hailend/strizhka-vest-xajlend-vajt-terera.html,200,Галерея / породы,Стрижка вест хайленд вайт терьера,1539,3,/porody/strizhka-vest-xajlend-vajt-terera,redirect,,2
+https://balyti.ru/comments/otzyivyi-o-strizhkax-sobak.html,301,Отзывы,,,0,/otzyvy,проверить,http://balyti.ru/comments.html,2
+https://balyti.ru/store/odezhda-dlya-sobak.html,200,Магазин,Одежда для собак,4946,26,/,"redirect (или 410, если магазин закрыт)",,30
+https://balyti.ru/gallery/strizhka-kitajskoj-xoxlatoj-puxovki/bella.html,200,Галерея / породы,Наши клиенты Белочка,1491,3,/porody/bella,redirect,,1
+https://balyti.ru/gallery/sheltie.html,404,Галерея / породы,,,0,/porody/sheltie,битая ссылка,,1
+https://balyti.ru/gallery/strizhka-koker-spanielej/strizhka-anglijskij-springer-spaniel﻿.html,,Галерея / породы,,,0,/porody/strizhka-anglijskij-springer-spaniel﻿,битая ссылка,,2
+https://balyti.ru/gallery/strizhka-koker-spanielej/strizhka-russkogo-koker-spanielya-na-domu-v-moskve-nedorogo.html,200,Галерея / породы,Стрижка русского кокер спаниеля на дому в Москве недорого,59,0,/porody/strizhka-russkogo-koker-spanielya-na-domu-v-moskve-nedorogo,redirect,,1
+https://balyti.ru/Купание собак,,Прочее,,,0,/,битая ссылка,,1
+"https://balyti.ru/price/strizhka-sobak/uslugi-dlya-bolshix,-krupnyix-porod-sobak.html",404,Цены,,,0,/ceny,битая ссылка,,2
+https://balyti.ru/gallery/shpicz/gruming-shpicza.html,200,Галерея / породы,груминг шпица,3974,0,/porody/gruming-shpicza,redirect,,1
+https://balyti.ru/price/strizhka-sobak/stoimost-uslug-dlya-malenkix-sobak.-gruming.html,404,Цены,,,0,/ceny,битая ссылка,,4
+https://balyti.ru/<a href=,,Прочее,,,0,/,битая ссылка,,1
+https://balyti.ru/store/spalnyie-mesta-dlya-sobak.html,200,Магазин,Спальные места для собак,5152,22,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/sumki-perenoski-kontejneryi.html,200,Магазин,"Сумки, переноски, контейнеры",4871,27,/,"redirect (или 410, если магазин закрыт)",,29
+https://balyti.ru/store/obuv-nosochki-tapochki.html,200,Магазин,"Обувь, носочки, тапочки",7993,44,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/oshejniki-shlejki-povodki.html,200,Магазин,"Ошейники, шлейки, поводки",3555,21,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/bizhuteriya-zakolki-bantiki.html,200,Магазин,"Бижутерия, заколки, бантики",5172,37,/,"redirect (или 410, если магазин закрыт)",,29
+https://balyti.ru/store/rasprodazha.html,200,Магазин,Распродажа,447,1,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/nashi-klientyi.html,200,Магазин,Наши клиенты,22,1,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/spa-kosmetika.html,200,Магазин,Спа косметика,934,0,/,"redirect (или 410, если магазин закрыт)",,29
+https://balyti.ru/store/korma-dlya-sobak-koshek.html,200,Магазин,Корма для собак кошек,329,1,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/myagkie-kogotki-silikonovyie-kolpachki.html,200,Магазин,мягкие коготки силиконовые колпачки,1500,5,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/furminator-sobaka-koshka.html,200,Магазин,Фурминаторы,537,4,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/amunicziya-dlya-sobak.html,200,Магазин,Амуниция для собак,899,6,/,"redirect (или 410, если магазин закрыт)",,28
+https://balyti.ru/store/odezhda-dlya-sobak/kollekcziya-leto-2012.html,200,Магазин,Коллекция Лето 2016,5055,33,/,"redirect (или 410, если магазин закрыт)",,12
+https://balyti.ru/store/odezhda-dlya-sobak/odezhda-dlya-sobak.-zima.html,200,Магазин,Одежда для собак. Зима,2459,7,/,"redirect (или 410, если магазин закрыт)",,12
+https://balyti.ru/store/odezhda-dlya-sobak/shubyi-dlya-malenkix-sobak.html,200,Магазин,Шубы для маленьких собак,72,0,/,"redirect (или 410, если магазин закрыт)",,12
+https://balyti.ru/store/odezhda-dlya-sobak/svitera-dlya-sobak.html,200,Магазин,свитера для собак,4141,17,/,"redirect (или 410, если магазин закрыт)",,13
+https://balyti.ru/store/odezhda-dlya-sobak/letnyaya-odezhda-dlya-sobak.html,200,Магазин,Летняя одежда для собак,1119,3,/,"redirect (или 410, если магазин закрыт)",,12
+https://balyti.ru/store/odezhda-dlya-sobak/zhiletki-dlya-sobak.html,200,Магазин,Жилетки для собак,255,1,/,"redirect (или 410, если магазин закрыт)",,12
+"https://balyti.ru/store/odezhda-dlya-sobak/shapki,-kaporyi-i-golovnyie-uboryi.html",200,Магазин,"Шапки, капоры и головные уборы",388,2,/,"redirect (или 410, если магазин закрыт)",,12
+https://balyti.ru/store/odezhda-dlya-sobak/for-my-dogs/dozhdeviki-dlya-sobak.html,200,Магазин,Дождевики для собак,2264,3,/,"redirect (или 410, если магазин закрыт)",,1
+https://balyti.ru/store/korma-dlya-sobak-koshek/lakomstva-dlya-sobak-koshek/lakomstva-dlya-sobak-i-koshek.html,200,Магазин,Деревенские лакомства,7631,38,/,"redirect (или 410, если магазин закрыт)",,3
+https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/strizhka-sobak.html,200,Мастера,ТОП Грумер,6775,34,/mastera,redirect,,1
+"https://balyti.ru/index/offers/skidka-zoosalona,strizhka-sobak,-koshek.html",404,Акции и новости,,,0,/akcii,битая ссылка,,1
+"https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/kondiczioner-dlya-shersti-sobak,-koshek-«pitatelnyij».html",,Магазин,,,0,/,битая ссылка,,3
+"https://balyti.ru/services/spa-proczeduryi/chistka-analnyix-zhelez/chistka-zhelez-kotu,koshke.html",404,Услуги,,,0,"/uslugi/chistka-zhelez-kotu,koshke",битая ссылка,,1
+https://balyti.ru/services/spa-proczeduryi/chistka-analnyix-zhelez.html,404,Услуги,,,0,/uslugi/chistka-analnyix-zhelez,битая ссылка,,1
+"https://balyti.ru/store/spa-kosmetika/shampuni-dlya-jorka,zhestiki.html",200,Магазин,Шампуни,94,0,/,"redirect (или 410, если магазин закрыт)",,5
+https://balyti.ru/store/spa-kosmetika/sredstva-ot-koltunov-kosmetika.html,200,Магазин,Средства от колтунов- косметика,1357,1,/,"redirect (или 410, если магазин закрыт)",,5
+https://balyti.ru/store/spa-kosmetika/iv-san-bernard.html,200,Магазин,Ив Сан Бернард,2183,0,/,"redirect (или 410, если магазин закрыт)",,5
+https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-%C2%ABfresh%C2%BB-%E2%80%94-osvezhayushhaya-vanil.html,200,Магазин,Шампунь «Фрэш» — освежающая ваниль,1518,1,/,"redirect (или 410, если магазин закрыт)",,1
+https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-«fresh»-—-osvezhayushhaya-vanil.html,,Магазин,,,0,/,битая ссылка,,1
+https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-«komfort».html,,Магазин,,,0,/,битая ссылка,,2
+https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-dlya-sobak-jorki-«renyu»-vosstanavlivayushhij-sherst.html,,Магазин,,,0,/,битая ссылка,,2
+"https://balyti.ru/store/odezhda-dlya-sobak/dozhdeviki,kurtki,na-osen,vesnu-dlya-sobak/kollekcziya-dozhdevikov-limardzhi-dlya-sobak.html",200,Магазин,Коллекция дождевиков Лимарджи,1993,9,/,"redirect (или 410, если магазин закрыт)",,1
+https://balyti.ru/index/prajs-strizhka-koshek.html,301,Прочее,,,0,/,проверить,http://balyti.ru/price/strizhka-koshek.html,1
+https://balyti.ru/gallery/shpits.html,404,Галерея / породы,,,0,/porody/shpits,битая ссылка,,1
+https://balyti.ru/store/korma-dlya-sobak-koshek/lakomstva-dlya-sobak-koshek.html,200,Магазин,Лакомства для собак кошек,451,2,/,"redirect (или 410, если магазин закрыт)",,2

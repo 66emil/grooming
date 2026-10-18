@@ -1,0 +1,125 @@
+# Битые и перенаправленные ссылки на balyti.ru (обход 18.10.2026)
+
+- **302** https://balyti.ru/price.html → https://balyti.ru/price/strizhka-sobak.html
+  - ссылка со страницы https://balyti.ru/
+  - ссылка со страницы https://balyti.ru/comments.html
+  - ссылка со страницы https://balyti.ru/comments/otzyivyi-o-strizhkax-koshki,kota.html
+  - ссылка со страницы https://balyti.ru/comments/otzyivyi-o-zoosalonax.html
+  - ссылка со страницы https://balyti.ru/contacts.html
+- **404** https://balyti.ru/booking
+  - ссылка со страницы https://balyti.ru/
+  - ссылка со страницы https://balyti.ru/gallery/gruming-aussi.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/ekspress-linka.html
+  - ссылка со страницы https://balyti.ru/index.html
+- **404** https://balyti.ru/undefined/
+  - ссылка со страницы https://balyti.ru/contacts.html
+  - ссылка со страницы https://balyti.ru/gallery/gruming-puli.html
+- **404** https://balyti.ru/services/2.1.html
+  - ссылка со страницы https://balyti.ru/price/strizhka-koshek.html
+- **404** https://balyti.ru/services/grooming_dom.html
+  - ссылка со страницы https://balyti.ru/gallery/chau-chau-strizhka.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-morskix-svinok,kroliki.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/kreativ-dlya-kota.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/markiz.html
+  - ссылка со страницы https://balyti.ru/price/prochie-uslugi-po-uxodu.html
+- **301** https://balyti.ru/price/udalenie-zubnogo-kamnya-ultrazvukom-bez-narkoza!.html → http://balyti.ru/services/chistka-zubnogo-kamnya.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom/strizhka-sobak-v-myitishhi.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom/trimming-na-domu-metro-aviamotornaya.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/vidyi-strizhek-biver-jorkshirskogo-terera.html
+  - ссылка со страницы https://balyti.ru/index/strizhka-sobak,-koshek,-jorka-arbatskaya.html
+  - ссылка со страницы https://balyti.ru/index/strizhka-sobak-i-koshek-bulvar-rokossovskogo.html
+- **404** https://balyti.ru/store.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/do-i-posle.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-gruming-jorka-malchika-i-devochki-jorochki-zoosalon.html
+  - ссылка со страницы https://balyti.ru/index/news.html
+  - ссылка со страницы https://balyti.ru/index/offers/strizhka-sobak-akczii.html
+  - ссылка со страницы https://balyti.ru/store/odezhda-dlya-sobak/dozhdeviki,kurtki,na-osen,vesnu-dlya-sobak.html
+- **404** https://balyti.ru/index/kursyi-strizhka-sobak/stazhirovka-v-zoosalone.html
+  - ссылка со страницы https://balyti.ru/index/vacancy.html
+  - ссылка со страницы https://balyti.ru/index/vacancy/besplatnaya-strizhka-sobak.html
+  - ссылка со страницы https://balyti.ru/index/vacancy/obuchenie.html
+  - ссылка со страницы https://balyti.ru/index/vacancy/vakansiya-grumer.html
+- **404** https://balyti.ru/contacts/kruglosutochnaya-strizhka.html
+  - ссылка со страницы https://balyti.ru/contacts/zoosalon-na-nizhegorodskoj,-50.html
+  - ссылка со страницы https://balyti.ru/contacts/zoosalon-shhelkovskaya.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/strizhka-kota-v-koltunax.html
+  - ссылка со страницы https://balyti.ru/index/vacancy.html
+- **404** https://balyti.ru/price/cats.html
+  - ссылка со страницы https://balyti.ru/services/strizhka-koshek.html
+- **404** https://balyti.ru/price/index.html
+  - ссылка со страницы https://balyti.ru/services/trimming-strizhka-sobak.html
+- **301** https://balyti.ru/index/prajs-list-strizhka-sobak.html → http://balyti.ru/price/strizhka-sobak.html
+  - ссылка со страницы https://balyti.ru/gallery/gruming-xaski-v-zoosalone.html
+  - ссылка со страницы https://balyti.ru/gallery/orxideya.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-retrivera-labrador-golden.html
+  - ссылка со страницы https://balyti.ru/services/chistka-zubnogo-kamnya.html
+  - ссылка со страницы https://balyti.ru/services/spa-proczeduryi/strizhka-kogtej-u-sobak-koshek.html
+- **404** https://balyti.ru/gallery/modeli-strizhek-jork/vernel.html
+  - ссылка со страницы https://balyti.ru/gallery/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/biver-jorkshirskij-terer.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/do-i-posle.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/jork-deni.html
+- **404** https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/grumer-gruming-spa-salon-zoo-jork.html
+  - ссылка со страницы https://balyti.ru/services/strizhka-jorkov.html
+- **404** https://balyti.ru/gallery/modeli-strizhek-jork/kreativnyie-strizhki-jorkshirskix-tererov-jorki-uzoryi-na-shersti-vyibrivanie-risunkov-trafaretyi.html
+  - ссылка со страницы https://balyti.ru/services/strizhka-jorkov.html
+- **404** https://balyti.ru/price/strizhka-sobak/trimming-zhestkosherstnyix-sobak.html
+  - ссылка со страницы https://balyti.ru/contacts/strizhka-sobak-i-koshek-v-sviblovo.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-mittelshnauczera-na-domu-v-moskve-nedorogo.html
+- **301** https://balyti.ru/price/shkola-gruminga.-obuchenie-grumingu.html → http://balyti.ru/index/vacancy/obuchenie.html
+  - ссылка со страницы https://balyti.ru/index/strizhka-sobak-i-koshek-bulvar-rokossovskogo.html
+- **404** https://balyti.ru/links/obmen-ssyilkami-baneryi.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom.html
+- **404** https://balyti.ru/links.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom.html
+- **404** https://balyti.ru/links/ssyilki1.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom.html
+- **404** https://balyti.ru/gallery/strizhka-malteze.html
+  - ссылка со страницы https://balyti.ru/contacts/grooming_dom.html
+- **404** https://balyti.ru/services/chipirovanie-sobak.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-toj-terera,-gruming.html
+  - ссылка со страницы https://balyti.ru/gallery/trimming-border-terera.html
+- **301** https://balyti.ru/comments/otzyivyi-o-strizhkax-sobak.html → http://balyti.ru/comments.html
+  - ссылка со страницы https://balyti.ru/gallery/griffon-brabanson.html
+  - ссылка со страницы https://balyti.ru/index/nashi-mastera-grumer-strizhka-sobak/strizhka-sobak,-koshek,-grumer_master_zoosalon.html
+- **404** https://balyti.ru/gallery/sheltie.html
+  - ссылка со страницы https://balyti.ru/gallery/shelti-gruming.html
+- **ошибка** https://balyti.ru/gallery/strizhka-koker-spanielej/strizhka-anglijskij-springer-spaniel﻿.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-koker-spanielej.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-koker-spanielej/strizhka-russkogo-koker-spanielya-na-domu-v-moskve-nedorogo.html
+- **ошибка** https://balyti.ru/Купание собак
+  - ссылка со страницы https://balyti.ru/gallery/ovcharki.html
+- **404** https://balyti.ru/price/strizhka-sobak/uslugi-dlya-bolshix,-krupnyix-porod-sobak.html
+  - ссылка со страницы https://balyti.ru/gallery/gruming-tibetskogo-mastifa.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhka-retrivera-labrador-golden.html
+- **404** https://balyti.ru/price/strizhka-sobak/stoimost-uslug-dlya-malenkix-sobak.-gruming.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/jork-deni.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-jorka_jorkshirskogo-terera-_malchika.html
+  - ссылка со страницы https://balyti.ru/gallery/shpicz.html
+  - ссылка со страницы https://balyti.ru/grooming-dog/obmen-ssyilkami-baneryi.html
+- **ошибка** https://balyti.ru/<a href=
+  - ссылка со страницы https://balyti.ru/grooming-dog/obmen-ssyilkami-baneryi.html
+- **404** https://balyti.ru/index/offers/skidka-zoosalona,strizhka-sobak,-koshek.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/kreativ-dlya-kota.html
+- **ошибка** https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/kondiczioner-dlya-shersti-sobak,-koshek-«pitatelnyij».html
+  - ссылка со страницы https://balyti.ru/services/spa-proczeduryi/strizhka-kogtej-u-sobak-koshek.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-%C2%ABfresh%C2%BB-%E2%80%94-osvezhayushhaya-vanil.html
+- **404** https://balyti.ru/services/spa-proczeduryi/chistka-analnyix-zhelez/chistka-zhelez-kotu,koshke.html
+  - ссылка со страницы https://balyti.ru/services/spa-proczeduryi/chistka-zhelez.html
+- **404** https://balyti.ru/services/spa-proczeduryi/chistka-analnyix-zhelez.html
+  - ссылка со страницы https://balyti.ru/gallery/modeli-strizhek-jork/strizhka-jorka-devochka-foto.html
+- **ошибка** https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-«fresh»-—-osvezhayushhaya-vanil.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet.html
+- **ошибка** https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-«komfort».html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-%C2%ABfresh%C2%BB-%E2%80%94-osvezhayushhaya-vanil.html
+- **ошибка** https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-dlya-sobak-jorki-«renyu»-vosstanavlivayushhij-sherst.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet.html
+  - ссылка со страницы https://balyti.ru/store/spa-kosmetika/spa-lavish-your-pet/shampun-%C2%ABfresh%C2%BB-%E2%80%94-osvezhayushhaya-vanil.html
+- **301** https://balyti.ru/index/prajs-strizhka-koshek.html → http://balyti.ru/price/strizhka-koshek.html
+  - ссылка со страницы https://balyti.ru/gallery/strizhki_koshek/strizhka-kota-mishka.html
+- **404** https://balyti.ru/gallery/shpits.html
+  - ссылка со страницы https://balyti.ru/gallery/shpicz/gruming-shpicza.html
